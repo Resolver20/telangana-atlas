@@ -146,6 +146,9 @@ for n in nodes.values():
  if n['kind']=='MLA listing':n['fields'].insert(0,['Constituency',n['title']])
  if n['kind']=='MLC listing':n['fields'].insert(0,['Constituency listed',n['sub']])
  if n['kind']=='MP listing':n['fields'].insert(0,['Party listed',n['sub']])
+from role_details import apply_details
+detail_coverage=apply_details(m)
+print('Detailed role coverage:',detail_coverage['entries'],'entries;',len(detail_coverage['officeTypeFallbacks']),'unclassified specialist entries; individual delegations remain subject to confirmation')
 roles=[]; role_ids={}
 for n in nodes.values():
  key=json.dumps(n['role'],sort_keys=True)

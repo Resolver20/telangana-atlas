@@ -9,3 +9,7 @@ qa/
 .env
 .env.*
 !.env.example
+
+# Python data-preparation cache
+__pycache__/
+*.py[cod]

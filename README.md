@@ -10,7 +10,7 @@ Built with React and Vite. Hosted on GitHub Pages.
 
 - **Government hierarchy:** start with the Chief Minister and explore ministers, departments, the Secretariat, advisors and district directories.
 - **Separate institutions:** explore the Governor, state Legislature, Judiciary, State Information Commission and Parliament representatives without placing them in a single executive reporting chain.
-- **Roles explained:** plain-English responsibilities, available contact details and links to the official sources.
+- **Roles explained:** all 1,956 entries include purpose, actions, authority limits and a practical example. Staff profiles distinguish the parent organisation’s remit from the individual post’s delegated authority. See [how descriptions are prepared](ROLE-GUIDE.md).
 - **Agency branding:** 30 bundled official assets, with a clearly labelled shared Telangana emblem where separate department branding was not verified. HYDRAA’s remote logo has a local emblem fallback.
 - **Audited coverage:** HYDRAA and 34 other missing body/office entries added; 13 grouping or naming gaps resolved. See the [full coverage audit](COVERAGE-AUDIT.md).
 - **Official portraits:** 77 optimized photographs credited to their original Telangana government pages.
@@ -89,12 +89,15 @@ public/
   logos/                  Official branding and shared state emblem
 scripts/
   enrich-data.py          Regenerate enriched directory data
+  role_details.py         Contextual role explanations and authority limits
+  validate-role-details.py Check completeness and sensitive role distinctions
   build-map-data.py       Regenerate map paths and explicit name matches
   write-coverage-report.py Validate audit mappings, assets and graph; write report
 data-source/              Original normalized directory and GIS snapshots
 portrait-sources.json     Original photograph URLs and attribution
 logo-sources.json         Official branding URLs, attribution and assignments
 COVERAGE-AUDIT.md         Omission counts, full added-entry list and limitations
+ROLE-GUIDE.md             Role-description method and source limitations
 ```
 
 The data preparation scripts use Python’s standard library. The prepared data and assets are included, so running the website does not require Python or a live government API.
