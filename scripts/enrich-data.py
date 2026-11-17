@@ -95,6 +95,38 @@ def enrich(n):
   return role('Groups the offices or people published for this institution or subject.',['Open a branch to see the officials and roles listed for it','Use each entry’s official source to check the current listing','Inclusion in a directory is not proof of a direct reporting relationship'],src)
  return role('This post is listed in the official directory for the selected organisation.',['Performs the function indicated by the designation within that organisation','The portal does not publish a complete duty statement for this entry','Use the source listing to confirm the office’s current work allocation'],src,True)
 for n in nodes.values():n['role']=enrich(n)
+# Apply the reviewed agency/HOD additions before assigning shared role ids.
+supplement_path=P/'data-source/supplemental-bodies.json'
+supplement=json.loads(supplement_path.read_text()) if supplement_path.exists() else {'nodes':[],'edits':[]}
+for raw in supplement['nodes']:
+ n={k:v for k,v in raw.items() if k not in ('parent','extraParents')}
+ assert n['id'] not in nodes,n['id']
+ nodes[n['id']]=n
+for raw in supplement['nodes']:
+ for parent in [raw['parent']]+raw.get('extraParents',[]):
+  assert parent in nodes,parent
+  if raw['id'] not in nodes[parent]['children']:nodes[parent]['children'].append(raw['id'])
+for patch in supplement.get('edits',[]):
+ n=nodes[patch['id']]
+ for key,value in patch.items():
+  if key=='id':continue
+  if key=='fieldsAppend':n['fields'].extend(value)
+  else:n[key]=value
+# Public brand assets are attached only to their reviewed body ids. Shared emblems are explicitly labelled.
+logo_path=P/'logo-sources.json'
+logo_manifest=json.loads(logo_path.read_text()) if logo_path.exists() else {'assets':[]}
+for asset in logo_manifest['assets']:
+ if asset['id']=='state-emblem':
+  for id in nodes['departments']['children']:nodes[id]['logo']=asset.copy()
+for asset in logo_manifest['assets']:
+ for id in asset['nodeIds']:
+  assert id in nodes,(asset['id'],id)
+  nodes[id]['logo']=asset.copy()
+m['coverageAudit']={'checked':'17 Nov 2026','originalDepartmentPages':41,'referenceEntries':201,'confirmedOmissions':supplement.get('omissionCount',0),'report':'https://github.com/Resolver20/telangana-atlas/blob/main/COVERAGE-AUDIT.md'}
+m['counts']['entries']=len(nodes)
+m['counts']['departments']=len(nodes['departments']['children'])
+m['logoCounts']={'bundledAssets':sum(bool(x.get('path')) for x in logo_manifest['assets']),'remoteAssets':sum(bool(x.get('remote'))for x in logo_manifest['assets']),'departmentBranches':sum(bool(nodes[i].get('logo'))for i in nodes['departments']['children']),'brandedEntries':sum(bool(n.get('logo'))for n in nodes.values())}
+
 # Associate each person with a portrait on an official page, matching names rather than row position.
 def norm(s):
  s=re.sub(r'^(sri\.?|smt\.?|shri|dr\.?|ms\.?|hon.?ble)\s*','',s,flags=re.I)

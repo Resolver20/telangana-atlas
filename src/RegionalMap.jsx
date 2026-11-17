@@ -7,6 +7,7 @@ const byKey=Object.fromEntries(allFeatures.map(f=>[f.key,f]));
 const FULL=[0,0,geo.width,geo.height];
 const stateOffice=n=>['cm','cs','cabinet','cmdept','departments','governor','judiciary','commission','cmo','advisors','secretariat'].includes(n.id)||n.id.startsWith('minister')||n.id.startsWith('dept-');
 function officeArea(node){
+ if(node.geography)return{layer:'districts',region:'',label:node.geography.label};
  if(geo.districtByNode[node.id])return{layer:'districts',region:geo.districtByNode[node.id],label:'District directory association'};
  if(node.kind==='MLA listing')return{layer:'assembly',region:geo.seatByNode[node.id],label:'Assembly constituency'};
  if(stateOffice(node))return{layer:'districts',region:'state',label:node.id.startsWith('minister')||node.id==='cm'?'Statewide executive remit':'State-level institution or department'};
@@ -106,7 +107,7 @@ export default function RegionalMap({nodes,selected,onOpenNode,renderAvatar}){
      <p className="map-small-note">Select any district to see its officials, or switch to Assembly seats to find an MLA.</p>
     </>:<>
      <p className="region-description">Choose one of {layer==='districts'?'33 districts':'119 Assembly constituencies'} on the map or from the selector above.</p>
-     {scope.region===''&&<div className="region-geography-note"><Info size={15}/><p>The selected directory entry does not supply a directly mapped district or Assembly seat. No geographic jurisdiction is inferred for this post.</p></div>}
+     {scope.region===''&&<div className="region-geography-note"><Info size={15}/><p>{selected.geography?.note||'The selected directory entry does not supply a directly mapped district or Assembly seat. No geographic jurisdiction is inferred for this post.'}</p></div>}
      {seat&&<button className="open-region-hierarchy" onClick={()=>{choose(seat.key,'assembly');setBox(FULL)}}>Show {seat.name} <MapPin size={14}/></button>}
      <div className="map-explainer"><h4>Two views of the same state</h4><p><strong>Districts</strong> connect you to district administration and the published district officials.</p><p><strong>Assembly seats</strong> connect you to elected MLAs.</p><p>State-level roles cover wider responsibilities than an individual electoral seat.</p></div>
     </>}

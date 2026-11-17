@@ -24,3 +24,6 @@
 .map-legend .legend-state{background:#c4dfcc}
 /* Label controls for the map. */
 .map-label-controls{display:flex;align-items:center;gap:15px;flex-wrap:wrap;margin:-2px 0 17px;font-size:11px;color:#83947b}.map-label-controls>label{display:flex;align-items:center;gap:9px;white-space:nowrap}.map-label-controls select{font:inherit;color:#55784c;background:#fff;border:1px solid #d9e4d7;border-radius:6px;padding:7px 9px;min-height:35px}.map-label-controls>span{font-size:10px;color:#91a086}.all-labels-hint{font-size:11px;line-height:1.8;color:#8a9b7c;margin:-4px 0 17px}.map-surface{scroll-margin-top:110px}@media(max-width:480px){.map-label-controls{gap:10px 14px}.map-label-controls>label{width:100%}.map-label-controls select{min-height:42px;font-size:14px;flex:1}.map-label-controls>span{font-size:10px}.all-labels-hint{font-size:11px}}
+
+/* Original public branding is contained, never cropped like a portrait. */
+.avatar.has-logo{background:#fff;border-color:#e0e8df;padding:4px}.avatar.has-logo img{object-fit:contain;object-position:center}.avatar-hero.has-logo{padding:8px}.avatar-small.has-logo{padding:3px}.logo-credit{line-height:1.7;text-align:right}.sources-modal a{color:#386e49}.branch-card .avatar.has-logo{background:#fff}

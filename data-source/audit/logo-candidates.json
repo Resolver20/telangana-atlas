@@ -1,0 +1,2281 @@
+{
+  "agri.telangana.gov.in": {
+    "url": "https://agri.telangana.gov.in/",
+    "contexts": [
+      "dept-agriculture-and-co-operation",
+      "state-web-directory"
+    ],
+    "final_url": "https://agri.telangana.gov.in/",
+    "title": "Department of Agriculture",
+    "logos": [],
+    "image_count": 8
+  },
+  "horticulturedept.telangana.gov.in": {
+    "url": "https://horticulturedept.telangana.gov.in/",
+    "contexts": [
+      "dept-agriculture-and-co-operation"
+    ],
+    "error": "<urlopen error timed out>"
+  },
+  "horticulture.tg.nic.in": {
+    "url": "https://horticulture.tg.nic.in/",
+    "contexts": [
+      "dept-agriculture-and-co-operation"
+    ],
+    "final_url": "https://horticulture.tg.nic.in/",
+    "title": "TGHORTI",
+    "logos": [
+      {
+        "url": "https://horticulture.tg.nic.in/img/telanganalogo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://horticulture.tg.nic.in/img/TGRising%20logo.jpg",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 82
+  },
+  "cooperation.telangana.gov.in": {
+    "url": "https://cooperation.telangana.gov.in/",
+    "contexts": [
+      "dept-agriculture-and-co-operation"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+  },
+  "esahakaraseva.telangana.gov.in": {
+    "url": "https://esahakaraseva.telangana.gov.in/",
+    "contexts": [
+      "dept-agriculture-and-co-operation"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+  },
+  "ahddf.telangana.gov.in": {
+    "url": "https://ahddf.telangana.gov.in/",
+    "contexts": [
+      "dept-animal-husbandry-and-fisheries",
+      "state-web-directory"
+    ],
+    "final_url": "https://ahddf.telangana.gov.in/",
+    "title": "AHDDF / Telangana",
+    "logos": [
+      {
+        "url": "https://ahddf.telangana.gov.in/images/logo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://ahddf.telangana.gov.in/images/logotg.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://ahddf.telangana.gov.in/images/logo2.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://ahddf.telangana.gov.in/images/map.png",
+        "alt": "logo",
+        "title": "Click here for Expanded Map"
+      },
+      {
+        "url": "https://ahddf.telangana.gov.in/images/vahd.jpg",
+        "alt": "Logo",
+        "title": ""
+      },
+      {
+        "url": "https://ahddf.telangana.gov.in/images/cow_logo.jpeg",
+        "alt": "Logo",
+        "title": ""
+      },
+      {
+        "url": "https://ahddf.telangana.gov.in/images/fingerlings.jpg",
+        "alt": "Logo",
+        "title": ""
+      },
+      {
+        "url": "https://ahddf.telangana.gov.in/images\\logovijaya.jpg",
+        "alt": "Logo",
+        "title": ""
+      },
+      {
+        "url": "https://ahddf.telangana.gov.in/images\\vlogo.jpg",
+        "alt": "Logo",
+        "title": ""
+      },
+      {
+        "url": "https://ahddf.telangana.gov.in/images\\others.png",
+        "alt": "Logo",
+        "title": ""
+      }
+    ],
+    "image_count": 38
+  },
+  "tsobmms.cgg.gov.in": {
+    "url": "https://tsobmms.cgg.gov.in/",
+    "contexts": [
+      "dept-backward-classes-welfare"
+    ],
+    "final_url": "https://tsobmms.cgg.gov.in/",
+    "title": "",
+    "logos": [],
+    "image_count": 0
+  },
+  "tgbcwd.cgg.gov.in": {
+    "url": "https://tgbcwd.cgg.gov.in/",
+    "contexts": [
+      "dept-backward-classes-welfare"
+    ],
+    "final_url": "https://tgbcwd.cgg.gov.in/home.do",
+    "title": "WELCOME WELCOME",
+    "logos": [
+      {
+        "url": "https://tgbcwd.cgg.gov.in/images/logo1.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 7
+  },
+  "filmin.telangana.gov.in": {
+    "url": "https://filmin.telangana.gov.in/",
+    "contexts": [
+      "dept-cinematography",
+      "dept-information-and-public-relations"
+    ],
+    "final_url": "https://filmin.telangana.gov.in/",
+    "title": "TGFDC | Telangana Film Development Corporation – Shooting Permits, Locations & Film Support Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset",
+    "logos": [
+      {
+        "url": "https://filmin.telangana.gov.in/assets/images/logo.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 67
+  },
+  "civilsupplies.telangana.gov.in": {
+    "url": "https://civilsupplies.telangana.gov.in/",
+    "contexts": [
+      "dept-consumer-affairs-food-civil-supplies",
+      "state-web-directory"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+  },
+  "endowments.ts.nic.in": {
+    "url": "https://www.endowments.ts.nic.in/",
+    "contexts": [
+      "dept-endowments",
+      "state-web-directory"
+    ],
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "tsgenco.co.in": {
+    "url": "https://www.tsgenco.co.in/home.do",
+    "contexts": [
+      "dept-energy"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+  },
+  "tstransco.in": {
+    "url": "https://www.tstransco.in/",
+    "contexts": [
+      "dept-energy"
+    ],
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  "tserc.gov.in": {
+    "url": "https://www.tserc.gov.in/",
+    "contexts": [
+      "dept-energy"
+    ],
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  "tssouthernpower.com": {
+    "url": "https://www.tssouthernpower.com/",
+    "contexts": [
+      "dept-energy"
+    ],
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "tsnpdcl.in": {
+    "url": "https://tsnpdcl.in/",
+    "contexts": [
+      "dept-energy"
+    ],
+    "final_url": "https://www.tsnpdcl.in/",
+    "title": "tsnpdcl NEWS - Sarkari Result -",
+    "logos": [],
+    "image_count": 10
+  },
+  "tsredco.telangana.gov.in": {
+    "url": "https://tsredco.telangana.gov.in/",
+    "contexts": [
+      "dept-energy"
+    ],
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  "scclmines.com": {
+    "url": "https://scclmines.com/scclnew/index.asp",
+    "contexts": [
+      "dept-energy"
+    ],
+    "final_url": "https://scclmines.com/scclnew/index.asp",
+    "title": "The Singareni Collieries Company Limited (A Government Company)",
+    "logos": [
+      {
+        "url": "https://scclmines.com/scclnew/images/sccl-logo.jpg",
+        "alt": "sccl logo",
+        "title": ""
+      },
+      {
+        "url": "https://scclmines.com/scclnew/images/news/TS_LOGO.jfif",
+        "alt": "SCCL",
+        "title": ""
+      }
+    ],
+    "image_count": 12
+  },
+  "tsceig.cgg.gov.in": {
+    "url": "https://tsceig.cgg.gov.in/login.do",
+    "contexts": [
+      "dept-energy"
+    ],
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  "tggenco.com": {
+    "url": "https://tggenco.com/TGGENCO/home.do",
+    "contexts": [
+      "dept-energy"
+    ],
+    "final_url": "https://tggenco.com/TGGENCO/home.do",
+    "title": "TGGENCO",
+    "logos": [
+      {
+        "url": "https://tggenco.com:443/TGGENCO/newBootstrap/images/TGGENCO_LOGO1.jpg",
+        "alt": "Genco logo",
+        "title": ""
+      },
+      {
+        "url": "https://tggenco.com:443/TGGENCO/images/99_days.jpg",
+        "alt": "Mnemonic_logo",
+        "title": ""
+      },
+      {
+        "url": "https://tggenco.com:443/TGGENCO/images/Telangana_Rising_New.png",
+        "alt": "Mnemonic_logo",
+        "title": ""
+      }
+    ],
+    "image_count": 32
+  },
+  "tgtransco.com": {
+    "url": "https://tgtransco.com/",
+    "contexts": [
+      "dept-energy"
+    ],
+    "final_url": "https://tgtransco.com/",
+    "title": "TGTRANSCO - Home",
+    "logos": [
+      {
+        "url": "https://tgtransco.com/images/data/images/tstransco-logo-v3.jpg",
+        "alt": "ztstransco logo",
+        "title": ""
+      },
+      {
+        "url": "https://tgtransco.com/images/data/images/Risinglogo1126.jpeg",
+        "alt": "Risinglogo1126",
+        "title": ""
+      }
+    ],
+    "image_count": 23
+  },
+  "tgerc.telangana.gov.in": {
+    "url": "https://www.tgerc.telangana.gov.in/",
+    "contexts": [
+      "dept-energy"
+    ],
+    "final_url": "https://www.tgerc.telangana.gov.in/",
+    "title": "TGERC  New Document  www  This site",
+    "logos": [],
+    "image_count": 18
+  },
+  "tgsouthernpower.org": {
+    "url": "https://tgsouthernpower.org/",
+    "contexts": [
+      "dept-energy"
+    ],
+    "final_url": "https://tgsouthernpower.org/",
+    "title": "TGSPDCL-Southern Power Distribution Company of Telangana Limited",
+    "logos": [],
+    "image_count": 0
+  },
+  "tgnpdcl.com": {
+    "url": "https://tgnpdcl.com/",
+    "contexts": [
+      "dept-energy"
+    ],
+    "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1081)>"
+  },
+  "tgredco.telangana.gov.in": {
+    "url": "https://tgredco.telangana.gov.in/",
+    "contexts": [
+      "dept-energy",
+      "state-web-directory"
+    ],
+    "final_url": "https://tgredco.telangana.gov.in/",
+    "title": "TGREDCO - Telangana Renewable Energy Development Corporation Ltd.,",
+    "logos": [
+      {
+        "url": "https://tgredco.telangana.gov.in/images/NewLogo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://tgredco.telangana.gov.in/images/government-of-telangana-logo-4949BC8A09-seeklogo.com.svg",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 273
+  },
+  "tscost.telangana.gov.in": {
+    "url": "https://tscost.telangana.gov.in/DefaultPage.aspx",
+    "contexts": [
+      "dept-environment-forests",
+      "dept-mines-geology"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tscost.telangana.gov.in'. (_ssl.c:1081)>"
+  },
+  "eptri.telangana.gov.in": {
+    "url": "https://eptri.telangana.gov.in/",
+    "contexts": [
+      "dept-environment-forests",
+      "dept-mines-geology"
+    ],
+    "error": "<urlopen error timed out>"
+  },
+  "forests.telangana.gov.in": {
+    "url": "https://forests.telangana.gov.in/",
+    "contexts": [
+      "dept-environment-forests",
+      "state-web-directory"
+    ],
+    "final_url": "https://forests.telangana.gov.in/",
+    "title": ":: Telangana State Forest Department ::",
+    "logos": [
+      {
+        "url": "https://forests.telangana.gov.in/img/logo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://forests.telangana.gov.in/img/tsfd-New.png",
+        "alt": "TS RISING LOGO",
+        "title": ""
+      },
+      {
+        "url": "https://forests.telangana.gov.in/img/TG_Rising_New.png",
+        "alt": "TS RISING LOGO",
+        "title": ""
+      },
+      {
+        "url": "https://forests.telangana.gov.in/img/telangana state symbols_New.jpg",
+        "alt": "State Symbol",
+        "title": ""
+      }
+    ],
+    "image_count": 24
+  },
+  "tgcost.telangana.gov.in": {
+    "url": "https://tgcost.telangana.gov.in/",
+    "contexts": [
+      "dept-environment-forests",
+      "state-web-directory"
+    ],
+    "final_url": "https://tgcost.telangana.gov.in/",
+    "title": "Telangana Council of science & Technology",
+    "logos": [
+      {
+        "url": "https://tgcost.telangana.gov.in/images/TS_logo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://tgcost.telangana.gov.in/images/1logo1.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://tgcost.telangana.gov.in/images/TGCOST_logo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://tgcost.telangana.gov.in/images/footer/ts_posrtal_logo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://tgcost.telangana.gov.in/images/footer/digital_india_logo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://tgcost.telangana.gov.in/images/footer/india_gov_in_logo.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 360
+  },
+  "finance.telangana.gov.in": {
+    "url": "https://finance.telangana.gov.in/FirstPage.do",
+    "contexts": [
+      "dept-finance",
+      "state-web-directory"
+    ],
+    "final_url": "https://finance.telangana.gov.in/FirstPage.do",
+    "title": "Government of Telangana Finance Portal",
+    "logos": [
+      {
+        "url": "https://finance.telangana.gov.in/PreviewPage.do?filePath=tgfdpNew-img&fileName=telanganalogo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://finance.telangana.gov.in/PreviewPage.do?filePath=tgfdpNew-img&fileName=DigitalLogo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://finance.telangana.gov.in/PreviewPage.do?filePath=tgfdpNew-img&fileName=logo_en-GB.gif",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://finance.telangana.gov.in/PreviewPage.do?filePath=tgfdpNew-img&fileName=cgg_logo.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 53
+  },
+  "health.telangana.gov.in": {
+    "url": "https://health.telangana.gov.in/",
+    "contexts": [
+      "dept-health-medical-family-welfare-science-technology"
+    ],
+    "final_url": "https://health.telangana.gov.in/",
+    "title": "Department of Health, Medical & Family Welfare, Government of Telangana",
+    "logos": [
+      {
+        "url": "https://health.telangana.gov.in/images/logo.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 20
+  },
+  "chfw.telangana.gov.in": {
+    "url": "https://chfw.telangana.gov.in/home.do",
+    "contexts": [
+      "dept-health-medical-family-welfare-science-technology",
+      "state-web-directory"
+    ],
+    "final_url": "https://chfw.telangana.gov.in/home.do",
+    "title": "Commissionerate of Health and Family Welfare",
+    "logos": [
+      {
+        "url": "https://chfw.telangana.gov.in:443/images_new/logo5.jpg",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 6
+  },
+  "covid19.telangana.gov.in": {
+    "url": "https://covid19.telangana.gov.in/",
+    "contexts": [
+      "dept-health-medical-family-welfare-science-technology",
+      "state-web-directory"
+    ],
+    "error": "<urlopen error timed out>"
+  },
+  "tgche.ac.in": {
+    "url": "https://www.tgche.ac.in/",
+    "contexts": [
+      "dept-higher-education",
+      "state-web-directory"
+    ],
+    "final_url": "https://tgche.ac.in/",
+    "title": "Home - Telangana Council of Higher Education",
+    "logos": [
+      {
+        "url": "https://tgche.ac.in/wp-content/uploads/2024/12/tgche-logo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://tgche.ac.in/wp-content/uploads/2026/01/TELANGANA-RISING-LOGO.webp",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://tgche.ac.in/wp-content/uploads/2024/11/fly-logo.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 222
+  },
+  "tspolice.gov.in": {
+    "url": "https://www.tspolice.gov.in",
+    "contexts": [
+      "dept-home-department",
+      "state-web-directory"
+    ],
+    "error": "<urlopen error [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1081)>"
+  },
+  "hyderabadpolice.gov.in": {
+    "url": "https://www.hyderabadpolice.gov.in/",
+    "contexts": [
+      "dept-home-department",
+      "state-web-directory"
+    ],
+    "final_url": "https://www.hyderabadpolice.gov.in/",
+    "title": "HYDERABAD CITY POLICE",
+    "logos": [
+      {
+        "url": "https://www.hyderabadpolice.gov.in/img/HCP.png",
+        "alt": "Hyderabad Police Logo",
+        "title": ""
+      },
+      {
+        "url": "https://www.hyderabadpolice.gov.in/img/TS_LOGO.jpeg",
+        "alt": "TS POLICE LOGO",
+        "title": ""
+      },
+      {
+        "url": "https://www.hyderabadpolice.gov.in/img/icons/mitr.png",
+        "alt": "C-Mitra Logo",
+        "title": ""
+      },
+      {
+        "url": "https://www.hyderabadpolice.gov.in/img/sancharsaathi-logo.png",
+        "alt": "sanchar saathi",
+        "title": ""
+      },
+      {
+        "url": "https://www.hyderabadpolice.gov.in/img/hydpollogotf.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://www.hyderabadpolice.gov.in/img/IT CELL NEW LOGO A1.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 45
+  },
+  "cyberabadpolice.gov.in": {
+    "url": "https://www.cyberabadpolice.gov.in/",
+    "contexts": [
+      "dept-home-department"
+    ],
+    "final_url": "https://www.cyberabadpolice.gov.in/",
+    "title": "Cyberabad Police",
+    "logos": [
+      {
+        "url": "https://www.cyberabadpolice.gov.in/assets/cppmsImg/HeadLogo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://www.cyberabadpolice.gov.in/assets/cppmsImg/FeedbackLogo.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://www.cyberabadpolice.gov.in/assets/cppmsImg/TelanganaPoliceLogo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://www.cyberabadpolice.gov.in/static/assets/icons/Traffic_Logo.png",
+        "alt": "Traffic Police",
+        "title": ""
+      }
+    ],
+    "image_count": 65
+  },
+  "tshousing.cgg.gov.in": {
+    "url": "https://tshousing.cgg.gov.in/",
+    "contexts": [
+      "dept-housing",
+      "state-web-directory"
+    ],
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  "industries.telangana.gov.in": {
+    "url": "https://industries.telangana.gov.in/",
+    "contexts": [
+      "dept-industries-and-commerce",
+      "state-web-directory"
+    ],
+    "final_url": "https://industries.telangana.gov.in/Home.aspx",
+    "title": "Telangana Industries Department",
+    "logos": [
+      {
+        "url": "https://industries.telangana.gov.in/Library/DEAP_Districts/Deet Logo.jpeg",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 66
+  },
+  "ipr.telangana.gov.in": {
+    "url": "https://ipr.telangana.gov.in/",
+    "contexts": [
+      "dept-information-and-public-relations",
+      "state-web-directory"
+    ],
+    "final_url": "https://ipr.telangana.gov.in/",
+    "title": "I&PR Telangana | Department of Information & Public Relations – Official Portal",
+    "logos": [
+      {
+        "url": "https://ipr.telangana.gov.in/images/tglogo1.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 67
+  },
+  "pressacademy.telangana.gov.in": {
+    "url": "https://pressacademy.telangana.gov.in/",
+    "contexts": [
+      "dept-information-and-public-relations"
+    ],
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  "tsfilm.telangana.gov.in": {
+    "url": "https://tsfilm.telangana.gov.in/",
+    "contexts": [
+      "dept-information-and-public-relations"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tsfilm.telangana.gov.in'. (_ssl.c:1081)>"
+  },
+  "mediaacademy.telangana.gov.in": {
+    "url": "https://mediaacademy.telangana.gov.in/",
+    "contexts": [
+      "dept-information-and-public-relations"
+    ],
+    "error": "<urlopen error timed out>"
+  },
+  "it.telangana.gov.in": {
+    "url": "https://it.telangana.gov.in/",
+    "contexts": [
+      "dept-information-technology-electronics-and-communications",
+      "state-web-directory"
+    ],
+    "final_url": "https://it.telangana.gov.in/",
+    "title": "Department of Information Technology, Electronics & Communications – Government of Telangana Toggle Menu Facebook Twitter YouTube Scroll to top Scroll to top Expand Expand Expand Expand Expand Expand Expand Expand Expand Expand Expand Expand Expand Expand Expand Expand Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset",
+    "logos": [
+      {
+        "url": "https://it.telangana.gov.in/wp-content/uploads/2026/01/cropped-cropped-STATE-TELANGANA-LOGO.png",
+        "alt": "Department of Information Technology, Electronics & Communications",
+        "title": ""
+      },
+      {
+        "url": "https://it.telangana.gov.in/wp-content/uploads/2025/07/CM-LOGO.png",
+        "alt": "TS Emblem 1",
+        "title": ""
+      },
+      {
+        "url": "https://it.telangana.gov.in/wp-content/uploads/2025/07/SRIDHAR-BABU-LOGO.png",
+        "alt": "TS Emblem 2",
+        "title": ""
+      },
+      {
+        "url": "https://it.telangana.gov.in/wp-content/uploads/2022/07/thub.svg",
+        "alt": "Logo of T-Hub",
+        "title": ""
+      },
+      {
+        "url": "https://it.telangana.gov.in/wp-content/uploads/2022/07/wehub.svg",
+        "alt": "Logo of We Hub",
+        "title": ""
+      },
+      {
+        "url": "https://it.telangana.gov.in/wp-content/uploads/2023/02/RICH-New-Logo-Design-01.png",
+        "alt": "Logo of Research and Innovation Circle of Hyderabad",
+        "title": ""
+      },
+      {
+        "url": "https://it.telangana.gov.in/wp-content/uploads/2022/08/tworks-logo.png",
+        "alt": "Logo of T-Works",
+        "title": ""
+      },
+      {
+        "url": "https://it.telangana.gov.in/wp-content/uploads/2022/08/task.png",
+        "alt": "Logo of TASK",
+        "title": ""
+      },
+      {
+        "url": "https://it.telangana.gov.in/wp-content/uploads/2022/09/telangana-state-emblem-300x300.png",
+        "alt": "Telangana State Emblem",
+        "title": ""
+      },
+      {
+        "url": "https://it.telangana.gov.in/wp-content/uploads/2021/07/state-portal.jpg",
+        "alt": "Logo of State Portal",
+        "title": ""
+      },
+      {
+        "url": "https://it.telangana.gov.in/wp-content/uploads/2021/07/national-portal.jpg",
+        "alt": "Logo of National Portal",
+        "title": ""
+      },
+      {
+        "url": "https://it.telangana.gov.in/wp-content/uploads/2021/07/magazine.jpg",
+        "alt": "Logo of Telangana Magazine",
+        "title": ""
+      },
+      {
+        "url": "https://it.telangana.gov.in/wp-content/uploads/2021/07/uidai.jpg",
+        "alt": "Logo of UIDAI",
+        "title": ""
+      },
+      {
+        "url": "https://it.telangana.gov.in/wp-content/uploads/2021/07/telangana-tourism.jpg",
+        "alt": "Logo of Telangana Tourism",
+        "title": ""
+      },
+      {
+        "url": "https://it.telangana.gov.in/wp-content/uploads/2021/07/data-portal.jpg",
+        "alt": "Logo of Data Portal",
+        "title": ""
+      },
+      {
+        "url": "https://it.telangana.gov.in/wp-content/uploads/2021/07/mee-seva.jpg",
+        "alt": "Logo of Mee Seva",
+        "title": ""
+      }
+    ],
+    "image_count": 31
+  },
+  "irrigation.telangana.gov.in": {
+    "url": "https://irrigation.telangana.gov.in/icad/home",
+    "contexts": [
+      "dept-irrigation-and-cad",
+      "state-web-directory"
+    ],
+    "final_url": "https://irrigation.telangana.gov.in/icad/home",
+    "title": "I & CADD- Govt of Telangana",
+    "logos": [],
+    "image_count": 0
+  },
+  "missionkakatiya.cgg.gov.in": {
+    "url": "https://missionkakatiya.cgg.gov.in/",
+    "contexts": [
+      "dept-irrigation-and-cad"
+    ],
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  "labour.telangana.gov.in": {
+    "url": "https://labour.telangana.gov.in/",
+    "contexts": [
+      "dept-labour-employment-training-and-factories"
+    ],
+    "final_url": "https://labour.telangana.gov.in/home.do",
+    "title": "Department of Labour - Government Of Telangana",
+    "logos": [
+      {
+        "url": "https://labour.telangana.gov.in/websiteimages/telanganalogo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://labour.telangana.gov.in/websiteimages/telangana_rising_logo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://labour.telangana.gov.in/websiteimages/logo-2.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 33
+  },
+  "law.telangana.gov.in": {
+    "url": "https://law.telangana.gov.in/",
+    "contexts": [
+      "dept-law"
+    ],
+    "final_url": "https://law.telangana.gov.in/home",
+    "title": "Telangana State LAW DEPARTMENT",
+    "logos": [
+      {
+        "url": "https://law.telangana.gov.in/img/telanganalogo.png",
+        "alt": "wd&cw logo",
+        "title": ""
+      },
+      {
+        "url": "https://law.telangana.gov.in/img/Telangana-Rising-.png",
+        "alt": "fa logo",
+        "title": ""
+      },
+      {
+        "url": "https://law.telangana.gov.in/img/CM_image.jpg",
+        "alt": "mbc logo",
+        "title": ""
+      },
+      {
+        "url": "https://law.telangana.gov.in/img/B Papi Reddy (1).bmp",
+        "alt": "mbc logo",
+        "title": ""
+      },
+      {
+        "url": "https://law.telangana.gov.in/img/cgg_logo.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 14
+  },
+  "legislature.telangana.gov.in": {
+    "url": "https://legislature.telangana.gov.in/main",
+    "contexts": [
+      "dept-legislative-affairs"
+    ],
+    "final_url": "https://legislature.telangana.gov.in/main",
+    "title": "Legislative Assembly - Legislative Assembly - Telangana-Legislature",
+    "logos": [
+      {
+        "url": "https://legislature.telangana.gov.in/img/logo_with_header.png",
+        "alt": "Legislature Header",
+        "title": ""
+      },
+      {
+        "url": "https://legislature.telangana.gov.in/img/tg_new_logo.png",
+        "alt": "Mnemonic Logo",
+        "title": ""
+      },
+      {
+        "url": "https://legislature.telangana.gov.in/img/cgg_logo.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 40
+  },
+  "mines.telangana.gov.in": {
+    "url": "https://mines.telangana.gov.in/MinesAndGeology/Views/Index.aspx",
+    "contexts": [
+      "dept-mines-geology"
+    ],
+    "final_url": "https://mines.telangana.gov.in/MinesAndGeology/Views/Index.aspx",
+    "title": ":: Home | Mines and Geology Department ::",
+    "logos": [
+      {
+        "url": "https://mines.telangana.gov.in/MinesAndGeology/Images/TelanganaRaisinglogo.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://mines.telangana.gov.in/MinesAndGeology/Images/new%20logo1.gif",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 2
+  },
+  "emunicipal.telangana.gov.in": {
+    "url": "https://emunicipal.telangana.gov.in/",
+    "contexts": [
+      "dept-municipal-administration-urban-development",
+      "state-web-directory"
+    ],
+    "final_url": "https://emunicipal.telangana.gov.in/",
+    "title": "Welcome to CDMA.",
+    "logos": [
+      {
+        "url": "https://emunicipal.telangana.gov.in/Design3/img/telanganalogo.png",
+        "alt": "Telangana Logo",
+        "title": ""
+      },
+      {
+        "url": "https://emunicipal.telangana.gov.in/ProfileImg/CM PIC copy.png",
+        "alt": "Telangana Logo",
+        "title": ""
+      },
+      {
+        "url": "https://emunicipal.telangana.gov.in/Design3/img/CDMA_Logo.jpeg",
+        "alt": "Telangana Logo",
+        "title": ""
+      },
+      {
+        "url": "https://emunicipal.telangana.gov.in/Design3/img/TG_Rising_Logo.jpg",
+        "alt": "Telangana Logo",
+        "title": ""
+      },
+      {
+        "url": "https://emunicipal.telangana.gov.in/Design3/img/cgg_logo.png",
+        "alt": "CGG Logo",
+        "title": ""
+      }
+    ],
+    "image_count": 169
+  },
+  "ghmc.gov.in": {
+    "url": "https://www.ghmc.gov.in/",
+    "contexts": [
+      "dept-municipal-administration-urban-development",
+      "state-web-directory"
+    ],
+    "final_url": "https://www.ghmc.gov.in/",
+    "title": "Welcome to GHMC",
+    "logos": [
+      {
+        "url": "https://www.ghmc.gov.in/img_NewDesign/telanganalogo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://www.ghmc.gov.in/img_NewDesign/GHMCNewLogo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://www.ghmc.gov.in/img_NewDesign/cgg_logo.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 34
+  },
+  "dtcp.telangana.gov.in": {
+    "url": "https://dtcp.telangana.gov.in/",
+    "contexts": [
+      "dept-municipal-administration-urban-development"
+    ],
+    "final_url": "https://dtcp.telangana.gov.in/",
+    "title": "DTCP WEBSITE | CGG \r\n        Welcome to DTCP",
+    "logos": [
+      {
+        "url": "https://dtcp.telangana.gov.in/design/img/telanganalogo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://dtcp.telangana.gov.in/design/telanganarising.png",
+        "alt": "Telangana Logo",
+        "title": ""
+      },
+      {
+        "url": "https://dtcp.telangana.gov.in/Home/staticImagePathEcrpty?pdffilename=twitterlogo.png",
+        "alt": "Twitter",
+        "title": ""
+      },
+      {
+        "url": "https://dtcp.telangana.gov.in/Design/img/cgg_logo.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 21
+  },
+  "hyderabadwater.gov.in": {
+    "url": "https://www.hyderabadwater.gov.in/",
+    "contexts": [
+      "dept-municipal-administration-urban-development"
+    ],
+    "final_url": "https://www.hyderabadwater.gov.in/en/",
+    "title": "Hyderabad Metropolitan Water Supply and Sewerage Board",
+    "logos": [
+      {
+        "url": "https://www.hyderabadwater.gov.in/en/application/themes/hmwssb/images/waterlogo.jpg",
+        "alt": "Hyderabad Metropolitan Water Supply and Sewerage Board",
+        "title": ""
+      },
+      {
+        "url": "https://www.hyderabadwater.gov.in/en/application/files/2517/6734/1759/Telangana-Logo-Rising.jpeg",
+        "alt": "Telangana Rising Logo",
+        "title": ""
+      }
+    ],
+    "image_count": 6
+  },
+  "hmrl.co.in": {
+    "url": "https://hmrl.co.in/",
+    "contexts": [
+      "dept-municipal-administration-urban-development"
+    ],
+    "error": "HTTP Error 406: Not Acceptable"
+  },
+  "hmda.gov.in": {
+    "url": "https://www.hmda.gov.in/",
+    "contexts": [
+      "dept-municipal-administration-urban-development"
+    ],
+    "final_url": "https://www.hmda.gov.in/",
+    "title": "Hyderabad Metropolitan Development Authority (HMDA)",
+    "logos": [
+      {
+        "url": "http://www.hmda.gov.in/wp-content/uploads/2020/07/hmda_logo.png",
+        "alt": "Hyderabad Metropolitan Development Authority",
+        "title": ""
+      },
+      {
+        "url": "http://www.hmda.gov.in/wp-content/uploads/2020/07/hmda_mobile_logo-scaled-1.jpg",
+        "alt": "Hyderabad Metropolitan Development Authority",
+        "title": ""
+      }
+    ],
+    "image_count": 25
+  },
+  "musi.telangana.gov.in": {
+    "url": "https://www.musi.telangana.gov.in/",
+    "contexts": [
+      "dept-municipal-administration-urban-development"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.musi.telangana.gov.in'. (_ssl.c:1081)>"
+  },
+  "epanchayat.telangana.gov.in": {
+    "url": "https://epanchayat.telangana.gov.in/",
+    "contexts": [
+      "dept-panchayat-raj-and-rural-development",
+      "state-web-directory"
+    ],
+    "final_url": "https://epanchayat.telangana.gov.in/cs",
+    "title": "Home | Panchayat Raj Home | Panchayat Raj",
+    "logos": [
+      {
+        "url": "https://epanchayat.telangana.gov.in/Style/ImagesD/new_logo.jpeg",
+        "alt": "Logo",
+        "title": ""
+      },
+      {
+        "url": "https://epanchayat.telangana.gov.in/Style/ImagesD/PanchayatiRajLogo.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://epanchayat.telangana.gov.in/Style/ImagesD/logo5.jpg",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 19
+  },
+  "streenidhi.telangana.gov.in": {
+    "url": "https://www.streenidhi.telangana.gov.in/SNTG/UI/Home.aspx",
+    "contexts": [
+      "dept-panchayat-raj-and-rural-development",
+      "state-web-directory"
+    ],
+    "final_url": "https://www.streenidhi.telangana.gov.in/SNTG/UI/Home.aspx",
+    "title": "Stree Nidhi",
+    "logos": [],
+    "image_count": 37
+  },
+  "rwss.telangana.gov.in": {
+    "url": "https://rwss.telangana.gov.in/tgrwss/",
+    "contexts": [
+      "dept-panchayat-raj-and-rural-development"
+    ],
+    "final_url": "https://rwss.telangana.gov.in/tgrwss/",
+    "title": "Water Soft",
+    "logos": [
+      {
+        "url": "https://rwss.telangana.gov.in/tgrwss/RWS_files/emblem-dark.png",
+        "alt": "Telangana State logo",
+        "title": ""
+      },
+      {
+        "url": "https://rwss.telangana.gov.in/tgrwss/WaterSoft/nicLogo.png",
+        "alt": "National Informatics Centre opens a new window",
+        "title": ""
+      }
+    ],
+    "image_count": 26
+  },
+  "serp.telangana.gov.in": {
+    "url": "https://www.serp.telangana.gov.in/SHGTG/",
+    "contexts": [
+      "dept-panchayat-raj-and-rural-development",
+      "state-web-directory"
+    ],
+    "error": "HTTP Error 404: Not Found"
+  },
+  "tgdps.telangana.gov.in": {
+    "url": "https://www.tgdps.telangana.gov.in/",
+    "contexts": [
+      "dept-planning"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tgdps.telangana.gov.in'. (_ssl.c:1081)>"
+  },
+  "registration.telangana.gov.in": {
+    "url": "https://registration.telangana.gov.in/",
+    "contexts": [
+      "dept-revenue-registration-and-stamps",
+      "state-web-directory"
+    ],
+    "final_url": "https://registration.telangana.gov.in/",
+    "title": "::Telangana Registration & Stamps Department::",
+    "logos": [
+      {
+        "url": "https://registration.telangana.gov.in/resources/img/telanganalogo.png",
+        "alt": "IGRS Logo",
+        "title": ""
+      },
+      {
+        "url": "https://registration.telangana.gov.in/resources/img/telangana-rising.png",
+        "alt": "Telangana Rising Logo",
+        "title": ""
+      },
+      {
+        "url": "https://registration.telangana.gov.in/resources/img/deptlogo.png",
+        "alt": "houseicon",
+        "title": ""
+      }
+    ],
+    "image_count": 35
+  },
+  "tgbcl.telangana.gov.in": {
+    "url": "https://tgbcl.telangana.gov.in",
+    "contexts": [
+      "dept-revenue-prohibition-excise",
+      "state-web-directory"
+    ],
+    "final_url": "https://tgbcl.telangana.gov.in/ts/index.php/site/login",
+    "title": "Telangana Prohibition and Excise Department Integrated Excise Management System",
+    "logos": [
+      {
+        "url": "https://tgbcl.telangana.gov.in/ts/images/state/tg/Telangana risgin logo.jpg",
+        "alt": "Logo",
+        "title": ""
+      },
+      {
+        "url": "https://tgbcl.telangana.gov.in/ts/images/state/tg/logo.png",
+        "alt": "Logo",
+        "title": ""
+      },
+      {
+        "url": "https://tgbcl.telangana.gov.in/ts/images/state/tg/meeSevaLogo.png",
+        "alt": "Service 2",
+        "title": ""
+      }
+    ],
+    "image_count": 20
+  },
+  "tgct.gov.in": {
+    "url": "https://www.tgct.gov.in/tgportal/",
+    "contexts": [
+      "dept-revenue-commercial-taxes",
+      "state-web-directory"
+    ],
+    "final_url": "https://www.tgct.gov.in/tgportal/",
+    "title": "COMMERCIAL TAXES DEPARTMENT",
+    "logos": [
+      {
+        "url": "https://www.tgct.gov.in/tgportal/images/logo.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 14
+  },
+  "roadbuild.telangana.gov.in": {
+    "url": "https://roadbuild.telangana.gov.in/",
+    "contexts": [
+      "dept-roads-and-buildings",
+      "state-web-directory"
+    ],
+    "final_url": "https://roadbuild.telangana.gov.in/home.do",
+    "title": "TSROADS",
+    "logos": [
+      {
+        "url": "https://roadbuild.telangana.gov.in:443/images/Telangana-Govt.-Logo.jpg",
+        "alt": "wd&cw logo",
+        "title": ""
+      },
+      {
+        "url": "https://roadbuild.telangana.gov.in:443/images/Telangana_Rising_.png",
+        "alt": "wd&cw logo",
+        "title": ""
+      },
+      {
+        "url": "https://roadbuild.telangana.gov.in:443/images/CM_Revanth_Reddy.jpeg",
+        "alt": "wd&cw logo",
+        "title": ""
+      },
+      {
+        "url": "https://roadbuild.telangana.gov.in:443/images/Mntr_RandB_Sri komatireddy Venkat Reddy.jpg",
+        "alt": "wd&cw logo",
+        "title": ""
+      }
+    ],
+    "image_count": 16
+  },
+  "schooledu.telangana.gov.in": {
+    "url": "https://schooledu.telangana.gov.in/ISMS/",
+    "contexts": [
+      "dept-school-education-se-wing",
+      "state-web-directory"
+    ],
+    "final_url": "https://schooledu.telangana.gov.in/ISMS/",
+    "title": ":: School Education ::",
+    "logos": [
+      {
+        "url": "https://schooledu.telangana.gov.in/ISMS/img/logo_left.png",
+        "alt": "Logo",
+        "title": ""
+      },
+      {
+        "url": "https://schooledu.telangana.gov.in/ISMS/img/Telangana_CM.png",
+        "alt": "Logo",
+        "title": ""
+      },
+      {
+        "url": "https://schooledu.telangana.gov.in/ISMS/img/isms-samgra1.gif",
+        "alt": "Logo",
+        "title": ""
+      }
+    ],
+    "image_count": 35
+  },
+  "bse.telangana.gov.in": {
+    "url": "https://bse.telangana.gov.in/",
+    "contexts": [
+      "dept-school-education-se-wing",
+      "state-web-directory"
+    ],
+    "final_url": "https://bse.telangana.gov.in/",
+    "title": "Directorate of Govt. Examinations (Telangana.)",
+    "logos": [],
+    "image_count": 10
+  },
+  "samagrashiksha.telangana.gov.in": {
+    "url": "https://samagrashiksha.telangana.gov.in/",
+    "contexts": [
+      "dept-school-education-se-wing"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'samagrashiksha.telangana.gov.in'. (_ssl.c:1081)>"
+  },
+  "transport.telangana.gov.in": {
+    "url": "https://transport.telangana.gov.in/",
+    "contexts": [
+      "dept-transport",
+      "state-web-directory"
+    ],
+    "final_url": "https://transport.telangana.gov.in/",
+    "title": "TRANSPORT DEPARTMENT GOVERNMENT OF TELANGANA - INDIA",
+    "logos": [
+      {
+        "url": "https://www.transport.telangana.gov.in/images/logo.png",
+        "alt": "Government of Telangana State Transport Department Logo",
+        "title": ""
+      },
+      {
+        "url": "http://www.transport.telangana.gov.in/images/telangana-state-portal-logo.png",
+        "alt": "Telangana State Portal",
+        "title": "Telangana State Portal"
+      },
+      {
+        "url": "http://www.transport.telangana.gov.in/images/vahan-logo.png",
+        "alt": "State Wise Transport Department Websites links",
+        "title": "State Wise Transport Department Websites links"
+      }
+    ],
+    "image_count": 22
+  },
+  "tgtribalwelfare.cgg.gov.in": {
+    "url": "https://tgtribalwelfare.cgg.gov.in/mainPage.do",
+    "contexts": [
+      "dept-tribal-welfare"
+    ],
+    "final_url": "https://tgtribalwelfare.cgg.gov.in/mainPage.do",
+    "title": "Tribal Welfare Department Government of Telangana",
+    "logos": [
+      {
+        "url": "https://tgtribalwelfare.cgg.gov.in/img/telanganalogo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://tgtribalwelfare.cgg.gov.in/img/education_emblem.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://tgtribalwelfare.cgg.gov.in/img/gcc_logo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://tgtribalwelfare.cgg.gov.in/img/logo-2.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 61
+  },
+  "satg.telangana.gov.in": {
+    "url": "https://satg.telangana.gov.in/",
+    "contexts": [
+      "dept-sports-and-youth-services"
+    ],
+    "error": "<urlopen error timed out>"
+  },
+  "wdcw.tg.nic.in": {
+    "url": "https://wdcw.tg.nic.in/",
+    "contexts": [
+      "dept-women-and-child-development",
+      "state-web-directory"
+    ],
+    "final_url": "https://wdcw.tg.nic.in/",
+    "title": "WDCW Department - Government of Telangana",
+    "logos": [
+      {
+        "url": "https://wdcw.tg.nic.in/images/logo.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://wdcw.tg.nic.in/images/govt.png",
+        "alt": "Government of Telangana Logo",
+        "title": ""
+      },
+      {
+        "url": "https://wdcw.tg.nic.in/images/Telangana_Raising_logo.jpg",
+        "alt": "Telangana Raising",
+        "title": ""
+      },
+      {
+        "url": "https://wdcw.tg.nic.in/images/cara_logo.jpg",
+        "alt": "CARA",
+        "title": ""
+      },
+      {
+        "url": "https://wdcw.tg.nic.in/images/Beti Bachao Beti Padhao_Logo.jpg",
+        "alt": "BBBP",
+        "title": ""
+      }
+    ],
+    "image_count": 30
+  },
+  "wcdsc.tg.nic.in": {
+    "url": "https://wcdsc.tg.nic.in/apsswb.php",
+    "contexts": [
+      "dept-women-and-child-development"
+    ],
+    "error": "<urlopen error [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1081)>"
+  },
+  "ikppwd.telangana.gov.in": {
+    "url": "https://ikppwd.telangana.gov.in/idpdpms/login.do",
+    "contexts": [
+      "dept-women-and-child-development",
+      "state-web-directory"
+    ],
+    "error": "HTTP Error 404: Not Found"
+  },
+  "telanganatourism.gov.in": {
+    "url": "https://www.telanganatourism.gov.in/",
+    "contexts": [
+      "dept-youth-advancement"
+    ],
+    "error": "<urlopen error [Errno 51] Network is unreachable>"
+  },
+  "rajivaarogyasri.telangana.gov.in": {
+    "url": "https://rajivaarogyasri.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://rajivaarogyasri.telangana.gov.in",
+    "title": "",
+    "logos": [],
+    "image_count": 0
+  },
+  "aasara.telangana.gov.in": {
+    "url": "https://www.aasara.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.aasara.telangana.gov.in'. (_ssl.c:1081)>"
+  },
+  "tgobmms.cgg.gov.in": {
+    "url": "https://tgobmms.cgg.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://tgobmms.cgg.gov.in",
+    "title": "Welcome",
+    "logos": [
+      {
+        "url": "https://tgobmms.cgg.gov.in/images/telanganalogo.png",
+        "alt": "telangana logo",
+        "title": ""
+      },
+      {
+        "url": "https://tgobmms.cgg.gov.in/images/cgg_logo.png",
+        "alt": "cgg logo ",
+        "title": ""
+      }
+    ],
+    "image_count": 22
+  },
+  "bathukamma.telangana.gov.in": {
+    "url": "https://bathukamma.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://bathukamma.telangana.gov.in",
+    "title": "Bathukamma - Telangana's Floral Festival Toggle Menu Facebook X YouTube Instagram",
+    "logos": [
+      {
+        "url": "https://bathukamma.telangana.gov.in/wp-content/uploads/2021/09/bathukamma-text-logo.png",
+        "alt": "Bathukamma Logo",
+        "title": ""
+      },
+      {
+        "url": "https://bathukamma.telangana.gov.in/wp-content/uploads/2021/09/ts-emblem.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://bathukamma.telangana.gov.in/wp-content/uploads/2021/09/bathukamma-logo-150x150.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://bathukamma.telangana.gov.in/wp-content/uploads/2021/09/bathukamma-footer-logo.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 16
+  },
+  "nrega.telangana.gov.in": {
+    "url": "https://www.nrega.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error timed out>"
+  },
+  "ubdmis.telangana.gov.in": {
+    "url": "https://ubdmis.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://ubdmis.telangana.gov.in",
+    "title": "UBDMIS UBD SIGNING STATUS",
+    "logos": [
+      {
+        "url": "https://ubdmis.telangana.gov.in/images/mislogo.jpg",
+        "alt": "mislogo.jpg",
+        "title": ""
+      }
+    ],
+    "image_count": 6
+  },
+  "tgbie.cgg.gov.in": {
+    "url": "https://tgbie.cgg.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://tgbie.cgg.gov.in",
+    "title": "",
+    "logos": [],
+    "image_count": 0
+  },
+  "ceotelangana.nic.in": {
+    "url": "https://ceotelangana.nic.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://ceotelangana.nic.in",
+    "title": ":: Ceo-Telangana ::",
+    "logos": [
+      {
+        "url": "https://ceotelangana.nic.in/ECI_logos/KYC.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://ceotelangana.nic.in/ECI_logos/cvigil.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://ceotelangana.nic.in/ECI_logos/Suvidha.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://ceotelangana.nic.in/ECI_logos/Voter_Turnout.jpg",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 29
+  },
+  "cm.telangana.gov.in": {
+    "url": "https://cm.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://cm.telangana.gov.in",
+    "title": "Chief Minister – Government of Telangana Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset",
+    "logos": [
+      {
+        "url": "https://cm.telangana.gov.in/wp-content/uploads/2026/01/cropped-STATE-TELANGANA-LOGO-2-113x113.png",
+        "alt": "Cropped State Telangana Logo 2.png",
+        "title": ""
+      }
+    ],
+    "image_count": 10
+  },
+  "ccla.telangana.gov.in": {
+    "url": "https://ccla.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://ccla.telangana.gov.in/Welcome.do",
+    "title": "WELCOME   CHIEF COMMISSIONER OF LAND ADMINISTRATION",
+    "logos": [
+      {
+        "url": "https://ccla.telangana.gov.in/images/Telangana-LOGO.png",
+        "alt": "telanganalogo",
+        "title": ""
+      },
+      {
+        "url": "https://ccla.telangana.gov.in/images/Telangana-Rising-.png",
+        "alt": "telanganaraisinglogo",
+        "title": ""
+      },
+      {
+        "url": "https://ccla.telangana.gov.in/website/new/images/bhubarathilogo.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 22
+  },
+  "bhubharati.telangana.gov.in": {
+    "url": "https://bhubharati.telangana.gov.in/homePage",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://bhubharati.telangana.gov.in/homePage",
+    "title": "Bhu Bharati - Telangana",
+    "logos": [
+      {
+        "url": "https://bhubharati.telangana.gov.in/assets/images/favicon.png",
+        "alt": "logo",
+        "title": ""
+      },
+      {
+        "url": "https://bhubharati.telangana.gov.in/assets/images/nic-logo.png",
+        "alt": "nic-logo",
+        "title": ""
+      }
+    ],
+    "image_count": 88
+  },
+  "iwmp.telangana.gov.in": {
+    "url": "https://www.iwmp.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.iwmp.telangana.gov.in'. (_ssl.c:1081)>"
+  },
+  "dte.telangana.gov.in": {
+    "url": "https://dte.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://dte.telangana.gov.in",
+    "title": "DTETS Welcome to DTETS",
+    "logos": [
+      {
+        "url": "https://dte.telangana.gov.in:443/template_1/img/telanganalogo.png",
+        "alt": "Telangana State logo",
+        "title": ""
+      },
+      {
+        "url": "https://dte.telangana.gov.in/filePreview?fileName=CMS/rising_telangana.jpg",
+        "alt": "Department of Technical Education logo",
+        "title": ""
+      },
+      {
+        "url": "https://dte.telangana.gov.in:443/template_1/img/sbtet_logo.png",
+        "alt": "logo",
+        "title": ""
+      },
+      {
+        "url": "https://dte.telangana.gov.in:443/template_1/img/cgg_logo.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 3275
+  },
+  "treasury.telangana.gov.in": {
+    "url": "https://treasury.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://treasury.telangana.gov.in",
+    "title": "Treasuries and Accounts",
+    "logos": [
+      {
+        "url": "https://treasury.telangana.gov.in/cimages/treasurry-logo.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 15
+  },
+  "sadarem.telangana.gov.in": {
+    "url": "https://sadarem.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://sadarem.telangana.gov.in",
+    "title": "",
+    "logos": [],
+    "image_count": 0
+  },
+  "tggazette.cgg.gov.in": {
+    "url": "https://tggazette.cgg.gov.in/",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://tggazette.cgg.gov.in/",
+    "title": "TGeGAZETTE",
+    "logos": [
+      {
+        "url": "https://tggazette.cgg.gov.in/fileShow?fileName=/Uploads/TSGAZETTE/images/Telangana-LOGO.png",
+        "alt": "wd&cw logo",
+        "title": ""
+      },
+      {
+        "url": "https://tggazette.cgg.gov.in/images/Telangana_Rising_2026.png",
+        "alt": "logo",
+        "title": ""
+      },
+      {
+        "url": "https://tggazette.cgg.gov.in/fileShow?fileName=/Uploads/TSGAZETTE/images/cgg_logo.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 14
+  },
+  "ehf.telangana.gov.in": {
+    "url": "https://ehf.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://ehf.telangana.gov.in",
+    "title": "",
+    "logos": [],
+    "image_count": 0
+  },
+  "telanganaepass.cgg.gov.in": {
+    "url": "https://telanganaepass.cgg.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://telanganaepass.cgg.gov.in",
+    "title": "Welcome",
+    "logos": [
+      {
+        "url": "https://telanganaepass.cgg.gov.in/WebsiteMain/images/epass_logo.png",
+        "alt": "ts logo",
+        "title": ""
+      },
+      {
+        "url": "https://telanganaepass.cgg.gov.in/WebsiteMain/images/Telangana-Rising-.png",
+        "alt": "tg rising logo",
+        "title": ""
+      }
+    ],
+    "image_count": 24
+  },
+  "factcheck.telangana.gov.in": {
+    "url": "https://factcheck.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  "governor.telangana.gov.in": {
+    "url": "https://governor.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://governor.telangana.gov.in",
+    "title": "Lok Bhavan",
+    "logos": [
+      {
+        "url": "https://governor.telangana.gov.in/img/logoicon.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 20
+  },
+  "goir.telangana.gov.in": {
+    "url": "https://goir.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://goir.telangana.gov.in",
+    "title": "Welcome to Telangana Government Order Issue Register",
+    "logos": [],
+    "image_count": 2
+  },
+  "tshc.gov.in": {
+    "url": "https://tshc.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://tshc.gov.in",
+    "title": "High Court for the State of Telangana",
+    "logos": [
+      {
+        "url": "https://tshc.gov.in/assets/frontmodule/images/logo.png",
+        "alt": "Telangana High Court logo",
+        "title": ""
+      }
+    ],
+    "image_count": 35
+  },
+  "ts.meeseva.telangana.gov.in": {
+    "url": "https://ts.meeseva.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://ts.meeseva.telangana.gov.in/meeseva/",
+    "title": "Welcome to Telangana MeeSeva Portal... :: Meeseva Official Portal - Government of Telangana ::",
+    "logos": [],
+    "image_count": 0
+  },
+  "missionbhagiratha.telangana.gov.in": {
+    "url": "https://missionbhagiratha.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+  },
+  "tmepma.cgg.gov.in": {
+    "url": "https://tmepma.cgg.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://tmepma.cgg.gov.in/home.do",
+    "title": "TMEPMA::Telangana State Mission for Elimination of\n\tPoverty in Municipal Areas Welcome to Department name should be added",
+    "logos": [
+      {
+        "url": "https://tmepma.cgg.gov.in:443/jsp/newTemplate16072022/img/titlepng.png",
+        "alt": "TSMEPMA logo",
+        "title": ""
+      },
+      {
+        "url": "https://tmepma.cgg.gov.in:443/jsp/newTemplate16072022/img/Telangana-Rising-.png",
+        "alt": "Raising logo",
+        "title": ""
+      },
+      {
+        "url": "https://tmepma.cgg.gov.in:443/jsp/newTemplate16072022/img/telanganalogo.png",
+        "alt": "logo",
+        "title": ""
+      },
+      {
+        "url": "https://tmepma.cgg.gov.in:443/jsp/newTemplate16072022/img/cgg_logo.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 35
+  },
+  "data.telangana.gov.in": {
+    "url": "https://data.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://data.telangana.gov.in",
+    "title": "Telangana Open Data Portal",
+    "logos": [],
+    "image_count": 0
+  },
+  "agriolms.telangana.gov.in": {
+    "url": "https://agriolms.telangana.gov.in/Default.aspx",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+  },
+  "tggenco.co.in": {
+    "url": "https://www.tggenco.co.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  "photonicsvalley.telangana.gov.in": {
+    "url": "https://photonicsvalley.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://photonicsvalley.telangana.gov.in",
+    "title": "Photonics Valley Corporation",
+    "logos": [
+      {
+        "url": "https://photonicsvalley.telangana.gov.in/images/logo2.png",
+        "alt": "logo",
+        "title": ""
+      }
+    ],
+    "image_count": 8
+  },
+  "pushkaralu.telangana.gov.in": {
+    "url": "https://pushkaralu.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  "qualitycontrol.telangana.gov.in": {
+    "url": "https://qualitycontrol.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error timed out>"
+  },
+  "rich.telangana.gov.in": {
+    "url": "https://rich.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error timed out>"
+  },
+  "tgird.gov.in": {
+    "url": "https://tgird.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  "rdcallcentre.telangana.gov.in": {
+    "url": "https://rdcallcentre.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)>"
+  },
+  "rdhrms.telangana.gov.in": {
+    "url": "https://rdhrms.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+  },
+  "dsa.telangana.gov.in": {
+    "url": "https://www.dsa.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)>"
+  },
+  "scert.telangana.gov.in": {
+    "url": "https://scert.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+  },
+  "task.telangana.gov.in": {
+    "url": "https://task.telangana.gov.in/",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://task.telangana.gov.in/",
+    "title": "TASK — Telangana Academy for Skill and Knowledge",
+    "logos": [
+      {
+        "url": "https://task.telangana.gov.in/_nuxt/ts-logo.69c80eff.png",
+        "alt": "Government of Telangana",
+        "title": ""
+      },
+      {
+        "url": "https://task.telangana.gov.in/_nuxt/logo.cf112990.png",
+        "alt": "TASK — Telangana Academy for Skill and Knowledge",
+        "title": ""
+      },
+      {
+        "url": "https://tasklms.telangana.gov.in/xapi/media/firstsouce_LOGO.jpg",
+        "alt": "Recruiter",
+        "title": ""
+      }
+    ],
+    "image_count": 147
+  },
+  "tsbhavan.telangana.gov.in": {
+    "url": "https://tsbhavan.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error timed out>"
+  },
+  "magazine.telangana.gov.in": {
+    "url": "https://magazine.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)>"
+  },
+  "tsonline.gov.in": {
+    "url": "https://tsonline.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tsonline.gov.in'. (_ssl.c:1081)>"
+  },
+  "tgscw.telangana.gov.in": {
+    "url": "https://tgscw.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error timed out>"
+  },
+  "tgfilm.telangana.gov.in": {
+    "url": "https://tgfilm.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)>"
+  },
+  "publichealth.telangana.gov.in": {
+    "url": "https://publichealth.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://publichealth.telangana.gov.in/home.do",
+    "title": "TGPHMED TGPHMED TGPHMED",
+    "logos": [
+      {
+        "url": "https://publichealth.telangana.gov.in:443/css/new/images/logo_phmed.jpg",
+        "alt": "PHMED Logo",
+        "title": ""
+      },
+      {
+        "url": "https://publichealth.telangana.gov.in:443/css/new/images/Telangana_Rising_.png",
+        "alt": "Telanga First Anniversary Logo",
+        "title": ""
+      },
+      {
+        "url": "https://publichealth.telangana.gov.in:443/css/new/images/tglogo.png",
+        "alt": "Telanga Logo",
+        "title": ""
+      },
+      {
+        "url": "https://publichealth.telangana.gov.in:443/css/new/images/cgg_logo.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 109
+  },
+  "tgts.telangana.gov.in": {
+    "url": "https://tgts.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://tgts.telangana.gov.in",
+    "title": "TGTS · Technology for Telangana",
+    "logos": [],
+    "image_count": 0
+  },
+  "tourism.telangana.gov.in": {
+    "url": "https://tourism.telangana.gov.in/",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+  },
+  "tgto.telangana.gov.in": {
+    "url": "https://tgto.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://tgto.telangana.gov.in",
+    "title": "Welcome to TELANGANA TRANSCO",
+    "logos": [],
+    "image_count": 10
+  },
+  "tfiber.telangana.gov.in": {
+    "url": "https://tfiber.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+  },
+  "t-hub.co": {
+    "url": "https://t-hub.co",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://www.t-hub.co/",
+    "title": "T-Hub | The World's Largest Home for Startups",
+    "logos": [
+      {
+        "url": "https://cdn.prod.website-files.com/69130479501764fda8a895c6/6971ad318c97c2807adebc12_Emblem_of_Telangana.svg-1-1.webp",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://cdn.prod.website-files.com/69130479501764fda8a895c6/695b50cfafd31ab0f93de34d_Monitra%20Health%20Logo%20-%202.webp",
+        "alt": "Monitra Health logo",
+        "title": ""
+      },
+      {
+        "url": "https://cdn.prod.website-files.com/69130479501764fda8a895c6/695f51786cd406bc9ef6ca95_LOGO_ICON.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://cdn.prod.website-files.com/69130479501764fda8a895c6/695b50ab8ae1324a51c068b3_logo%20white%20060623.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://cdn.prod.website-files.com/69130479501764fda8a895c6/6931363f290a019124a64757_Inmar-Logo-1.jpg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://cdn.prod.website-files.com/69130479501764fda8a895c6/6a2a4e28e56732a4764729f0_Maruti%20Suzuki%20logo.png",
+        "alt": "Maruti Suzuki logo",
+        "title": ""
+      },
+      {
+        "url": "https://cdn.prod.website-files.com/69130479501764fda8a895c6/6ab11bd05db208d10e7dc8bf_mb%20logo.png",
+        "alt": "Mercedes-Benz",
+        "title": ""
+      },
+      {
+        "url": "https://cdn.prod.website-files.com/69130479501764fda8a895c6/696635c838e8304c5e68cd54_Telangana-Rising-logo.png",
+        "alt": "Telangana Rising logo",
+        "title": ""
+      },
+      {
+        "url": "https://cdn.prod.website-files.com/69130479501764fda8a895c6/696636f33b029e204ee5efcb_twitter-new-2023-x-logo-white-background-vector_1017-45422.avif",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://cdn.prod.website-files.com/69130479501764fda8a895c6/6966376049b12596bab751a7_803-8035629_white-youtube-logo-transparent.webp",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 245
+  },
+  "softnet.telangana.gov.in": {
+    "url": "https://softnet.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://softnet.telangana.gov.in",
+    "title": "T-SAT",
+    "logos": [
+      {
+        "url": "https://softnet.telangana.gov.in/wp-content/uploads/2024/09/logo-1.png",
+        "alt": "T-SAT",
+        "title": "T-SAT"
+      },
+      {
+        "url": "https://s3.ap-south-1.amazonaws.com/media.softnet/wp-content/uploads/2026/06/tg-logo-min.png",
+        "alt": "Sri Bodanapally Venugopal Reddy",
+        "title": "Sri Bodanapally Venugopal Reddy"
+      },
+      {
+        "url": "https://softnet.telangana.gov.in/wp-content/uploads/2024/09/Agriculturelogo.png",
+        "alt": "partner",
+        "title": "partner"
+      },
+      {
+        "url": "https://softnet.telangana.gov.in/wp-content/uploads/2024/09/Telangana-healthlogo.png",
+        "alt": "partner",
+        "title": "partner"
+      },
+      {
+        "url": "https://softnet.telangana.gov.in/wp-content/uploads/2024/09/Tasklogo.png",
+        "alt": "partner",
+        "title": "partner"
+      },
+      {
+        "url": "https://softnet.telangana.gov.in/wp-content/uploads/2024/09/telangana-phototicslogo.png",
+        "alt": "partner",
+        "title": "partner"
+      },
+      {
+        "url": "https://softnet.telangana.gov.in/wp-content/uploads/2024/09/Telangana-innovationlogo.png",
+        "alt": "partner",
+        "title": "partner"
+      },
+      {
+        "url": "https://softnet.telangana.gov.in/wp-content/uploads/2024/09/DigitalTelangana-Logo.png",
+        "alt": "partner",
+        "title": "partner"
+      },
+      {
+        "url": "https://softnet.telangana.gov.in/wp-content/uploads/2024/09/Tfiber-logo.png",
+        "alt": "partner",
+        "title": "partner"
+      },
+      {
+        "url": "https://softnet.telangana.gov.in/wp-content/uploads/2024/09/tworkslogo.png",
+        "alt": "partner",
+        "title": "partner"
+      },
+      {
+        "url": "https://softnet.telangana.gov.in/wp-content/uploads/2024/09/webhublogo.png",
+        "alt": "partner",
+        "title": "partner"
+      },
+      {
+        "url": "https://softnet.telangana.gov.in/wp-content/uploads/2024/09/tsiiclogo.png",
+        "alt": "partner",
+        "title": "partner"
+      },
+      {
+        "url": "https://softnet.telangana.gov.in/wp-content/uploads/2024/09/State-council-of-educational-logo.png",
+        "alt": "partner",
+        "title": "partner"
+      },
+      {
+        "url": "https://softnet.telangana.gov.in/wp-content/uploads/2024/09/tsatapplogo.png",
+        "alt": "tsat_apptv",
+        "title": "tsat_apptv"
+      }
+    ],
+    "image_count": 59
+  },
+  "tgbpass.telangana.gov.in": {
+    "url": "https://tgbpass.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://tgbpass.telangana.gov.in",
+    "title": "TG-bPASS",
+    "logos": [
+      {
+        "url": "https://tgbpass.telangana.gov.in/html/images/logo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "url": "https://tgbpass.telangana.gov.in/html/images/logo_w.png",
+        "alt": "Hyno Technologies LLP",
+        "title": ""
+      }
+    ],
+    "image_count": 29
+  },
+  "tworks.telangana.gov.in": {
+    "url": "https://tworks.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://tworks.telangana.gov.in",
+    "title": "T Works - India's largest prototyping centre | Hyderabad",
+    "logos": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5b03aa4f31d4df8db1fccf03/a682b2c0-5c4f-4fce-ad48-816a0821b027/Logos+for+website.png?format=1500w",
+        "alt": "T-Works",
+        "title": ""
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5b03aa4f31d4df8db1fccf03/68527500-2e91-4afc-b625-161b3bb271c7/HDFC-Parivartan-Logo.png?format=2500w",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 29
+  },
+  "ubd.telangana.gov.in": {
+    "url": "https://ubd.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://ubd.telangana.gov.in",
+    "title": "Civil Registrations - Unified Birth & Death Registration for Registration Units",
+    "logos": [
+      {
+        "url": "https://ubd.telangana.gov.in/images/telanganarising.jpeg",
+        "alt": "bds logo",
+        "title": ""
+      },
+      {
+        "url": "https://ubd.telangana.gov.in/images/bdslogo.jpg",
+        "alt": "bds logo",
+        "title": ""
+      }
+    ],
+    "image_count": 4
+  },
+  "wehub.telangana.gov.in": {
+    "url": "https://wehub.telangana.gov.in",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://wehub.telangana.gov.in",
+    "title": "WE HUB – Women Entrepreneurs Hub by Government of Telangana",
+    "logos": [
+      {
+        "url": "https://wehub.telangana.gov.in/wp-content/uploads/2024/12/cropped-Logo-Updated-19nov2024-for-white-background-1-190x91.png",
+        "alt": "WE HUB",
+        "title": ""
+      },
+      {
+        "url": "https://wehub.telangana.gov.in/wp-content/uploads/2024/05/wehub-website-logo-mobile-e1753703482165.png",
+        "alt": "",
+        "title": ""
+      }
+    ],
+    "image_count": 78
+  },
+  "tgss.telangana.gov.in": {
+    "url": "https://tgss.telangana.gov.in/",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "error": "<urlopen error timed out>"
+  },
+  "cpgrams.ts.nic.in": {
+    "url": "https://cpgrams.ts.nic.in/",
+    "contexts": [
+      "state-web-directory"
+    ],
+    "final_url": "https://cpgrams.ts.nic.in/",
+    "title": "Notice",
+    "logos": [],
+    "image_count": 0
+  },
+  "hydraa.telangana.gov.in": {
+    "url": "https://hydraa.telangana.gov.in/about",
+    "contexts": [
+      "HYDRAA"
+    ],
+    "error": "<urlopen error timed out>"
+  }
+}

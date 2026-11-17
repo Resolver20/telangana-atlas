@@ -1,0 +1,440 @@
+{
+  "checked": "17 Nov 2026",
+  "assets": [
+    {
+      "id": "animal-husbandry",
+      "name": "Animal Husbandry",
+      "path": "/logos/animal-husbandry.webp",
+      "original": "https://ahddf.telangana.gov.in/images/logo2.png",
+      "source": "https://ahddf.telangana.gov.in/",
+      "nodeIds": [
+        "dept-animal-husbandry-and-fisheries"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 360,
+      "originalHeight": 351
+    },
+    {
+      "id": "film",
+      "name": "Telangana Film Development Corporation",
+      "path": "/logos/film.webp",
+      "original": "https://filmin.telangana.gov.in/assets/images/logo.png",
+      "source": "https://filmin.telangana.gov.in/",
+      "nodeIds": [
+        "n723"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 317,
+      "originalHeight": 314
+    },
+    {
+      "id": "sccl",
+      "name": "Singareni Collieries",
+      "path": "/logos/sccl.webp",
+      "original": "https://scclmines.com/scclnew/images/sccl-logo.jpg",
+      "source": "https://scclmines.com/scclnew/index.asp",
+      "nodeIds": [
+        "n349"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 497,
+      "originalHeight": 106
+    },
+    {
+      "id": "genco",
+      "name": "TGGENCO",
+      "path": "/logos/genco.webp",
+      "original": "https://tggenco.com/TGGENCO/newBootstrap/images/TGGENCO_LOGO1.jpg",
+      "source": "https://tggenco.com/TGGENCO/home.do",
+      "nodeIds": [
+        "n253"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 7200,
+      "originalHeight": 7567
+    },
+    {
+      "id": "transco",
+      "name": "TGTRANSCO",
+      "path": "/logos/transco.webp",
+      "original": "https://tgtransco.com/images/data/images/tstransco-logo-v3.jpg",
+      "source": "https://tgtransco.com/",
+      "nodeIds": [
+        "n223"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 1440,
+      "originalHeight": 1041
+    },
+    {
+      "id": "redco",
+      "name": "TGREDCO",
+      "path": "/logos/redco.webp",
+      "original": "https://tgredco.telangana.gov.in/images/NewLogo.png",
+      "source": "https://tgredco.telangana.gov.in/",
+      "nodeIds": [
+        "n339"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 166,
+      "originalHeight": 120
+    },
+    {
+      "id": "state-emblem",
+      "name": "Government of Telangana emblem",
+      "path": "/logos/state-emblem.webp",
+      "original": "https://forests.telangana.gov.in/img/logo.png",
+      "source": "https://forests.telangana.gov.in/",
+      "nodeIds": [],
+      "kind": "shared-state-emblem",
+      "reviewed": true,
+      "originalWidth": 130,
+      "originalHeight": 130
+    },
+    {
+      "id": "tgcost",
+      "name": "Telangana Council of Science and Technology",
+      "path": "/logos/tgcost.webp",
+      "original": "https://tgcost.telangana.gov.in/images/TGCOST_logo.png",
+      "source": "https://tgcost.telangana.gov.in/",
+      "nodeIds": [
+        "n408"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 520,
+      "originalHeight": 628
+    },
+    {
+      "id": "tgche",
+      "name": "Telangana Council of Higher Education",
+      "path": "/logos/tgche.webp",
+      "original": "https://tgche.ac.in/wp-content/uploads/2024/12/tgche-logo.png",
+      "source": "https://tgche.ac.in/",
+      "nodeIds": [
+        "n548"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 646,
+      "originalHeight": 645
+    },
+    {
+      "id": "hyderabad-police",
+      "name": "Hyderabad City Police",
+      "path": "/logos/hyderabad-police.webp",
+      "original": "https://www.hyderabadpolice.gov.in/img/HCP.png",
+      "source": "https://www.hyderabadpolice.gov.in/",
+      "nodeIds": [
+        "n604"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 331,
+      "originalHeight": 70
+    },
+    {
+      "id": "cyberabad-police",
+      "name": "Cyberabad Police",
+      "path": "/logos/cyberabad-police.webp",
+      "original": "https://www.cyberabadpolice.gov.in/assets/cppmsImg/TelanganaPoliceLogo.png",
+      "source": "https://www.cyberabadpolice.gov.in/",
+      "nodeIds": [
+        "n606"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 543,
+      "originalHeight": 459
+    },
+    {
+      "id": "cdma",
+      "name": "Commissioner and Director of Municipal Administration",
+      "path": "/logos/cdma.webp",
+      "original": "https://emunicipal.telangana.gov.in/Design3/img/CDMA_Logo.jpeg",
+      "source": "https://emunicipal.telangana.gov.in/",
+      "nodeIds": [
+        "n978"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 553,
+      "originalHeight": 491
+    },
+    {
+      "id": "ghmc",
+      "name": "Greater Hyderabad Municipal Corporation",
+      "path": "/logos/ghmc.webp",
+      "original": "https://www.ghmc.gov.in/img_NewDesign/GHMCNewLogo.png",
+      "source": "https://www.ghmc.gov.in/",
+      "nodeIds": [
+        "n989"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 2887,
+      "originalHeight": 1890
+    },
+    {
+      "id": "hmwssb",
+      "name": "Hyderabad Metropolitan Water Supply and Sewerage Board",
+      "path": "/logos/hmwssb.webp",
+      "original": "https://www.hyderabadwater.gov.in/en/application/themes/hmwssb/images/waterlogo.jpg",
+      "source": "https://www.hyderabadwater.gov.in/",
+      "nodeIds": [
+        "n1032"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 579,
+      "originalHeight": 120
+    },
+    {
+      "id": "hmda",
+      "name": "Hyderabad Metropolitan Development Authority",
+      "path": "/logos/hmda.webp",
+      "original": "https://www.hmda.gov.in/wp-content/uploads/2020/07/hmda_logo.png",
+      "source": "https://www.hmda.gov.in/",
+      "nodeIds": [
+        "n1061"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 624,
+      "originalHeight": 70
+    },
+    {
+      "id": "panchayat",
+      "name": "Panchayat Raj",
+      "path": "/logos/panchayat.webp",
+      "original": "https://epanchayat.telangana.gov.in/Style/ImagesD/PanchayatiRajLogo.jpg",
+      "source": "https://epanchayat.telangana.gov.in/",
+      "nodeIds": [
+        "dept-panchayat-raj-and-rural-development",
+        "n1120"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 206,
+      "originalHeight": 152
+    },
+    {
+      "id": "transport",
+      "name": "Transport Department",
+      "path": "/logos/transport.webp",
+      "original": "https://www.transport.telangana.gov.in/images/logo.png",
+      "source": "https://www.transport.telangana.gov.in/",
+      "nodeIds": [
+        "dept-transport",
+        "n1345"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 333,
+      "originalHeight": 90
+    },
+    {
+      "id": "women-child",
+      "name": "Women Development and Child Welfare",
+      "path": "/logos/women-child.webp",
+      "original": "https://wdcw.tg.nic.in/images/logo.jpg",
+      "source": "https://wdcw.tg.nic.in/",
+      "nodeIds": [
+        "dept-women-and-child-development",
+        "n1399"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 540,
+      "originalHeight": 106
+    },
+    {
+      "id": "high-court",
+      "name": "High Court for the State of Telangana",
+      "path": "/logos/high-court.webp",
+      "original": "https://tshc.gov.in/assets/frontmodule/images/logo.png",
+      "source": "https://tshc.gov.in/",
+      "nodeIds": [
+        "judiciary"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 1089,
+      "originalHeight": 1089
+    },
+    {
+      "id": "thub",
+      "name": "T-Hub",
+      "path": "/logos/thub.webp",
+      "original": "https://it.telangana.gov.in/wp-content/uploads/2022/07/thub.svg",
+      "source": "https://it.telangana.gov.in/",
+      "nodeIds": [
+        "n747"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 122,
+      "originalHeight": 102
+    },
+    {
+      "id": "wehub",
+      "name": "WE Hub",
+      "path": "/logos/wehub.webp",
+      "original": "https://wehub.telangana.gov.in/wp-content/uploads/2024/12/cropped-Logo-Updated-19nov2024-for-white-background-1-190x91.png",
+      "source": "https://wehub.telangana.gov.in/",
+      "nodeIds": [
+        "n752"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 190,
+      "originalHeight": 91
+    },
+    {
+      "id": "rich",
+      "name": "Research and Innovation Circle of Hyderabad",
+      "path": "/logos/rich.webp",
+      "original": "https://it.telangana.gov.in/wp-content/uploads/2023/02/RICH-New-Logo-Design-01.png",
+      "source": "https://it.telangana.gov.in/",
+      "nodeIds": [
+        "agency-rich"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 231,
+      "originalHeight": 165
+    },
+    {
+      "id": "tworks",
+      "name": "T-Works",
+      "path": "/logos/tworks.webp",
+      "original": "https://it.telangana.gov.in/wp-content/uploads/2022/08/tworks-logo.png",
+      "source": "https://it.telangana.gov.in/",
+      "nodeIds": [
+        "n756"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 359,
+      "originalHeight": 358
+    },
+    {
+      "id": "task",
+      "name": "Telangana Academy for Skill and Knowledge",
+      "path": "/logos/task.webp",
+      "original": "https://task.telangana.gov.in/_nuxt/logo.cf112990.png",
+      "source": "https://task.telangana.gov.in/",
+      "nodeIds": [
+        "n745"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 2363,
+      "originalHeight": 2250
+    },
+    {
+      "id": "tsat",
+      "name": "T-SAT SoFTNET",
+      "path": "/logos/tsat.webp",
+      "original": "https://softnet.telangana.gov.in/wp-content/uploads/2024/09/logo-1.png",
+      "source": "https://softnet.telangana.gov.in/",
+      "nodeIds": [
+        "agency-tsat"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 69,
+      "originalHeight": 95
+    },
+    {
+      "id": "photonics",
+      "name": "Photonics Valley Corporation",
+      "path": "/logos/photonics.webp",
+      "original": "https://photonicsvalley.telangana.gov.in/images/logo2.png",
+      "source": "https://photonicsvalley.telangana.gov.in/",
+      "nodeIds": [
+        "n743"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 301,
+      "originalHeight": 93
+    },
+    {
+      "id": "public-health",
+      "name": "Public Health and Municipal Engineering",
+      "path": "/logos/public-health.webp",
+      "original": "https://publichealth.telangana.gov.in/css/new/images/logo_phmed.jpg",
+      "source": "https://publichealth.telangana.gov.in/",
+      "nodeIds": [
+        "n1025"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 483,
+      "originalHeight": 57
+    },
+    {
+      "id": "gcc",
+      "name": "Girijan Co-operative Corporation",
+      "path": "/logos/gcc.webp",
+      "original": "https://tgtribalwelfare.cgg.gov.in/img/gcc_logo.png",
+      "source": "https://tgtribalwelfare.cgg.gov.in/mainPage.do",
+      "nodeIds": [
+        "n1371"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 214,
+      "originalHeight": 212
+    },
+    {
+      "id": "mepma",
+      "name": "Mission for Elimination of Poverty in Municipal Areas",
+      "path": "/logos/mepma.webp",
+      "original": "https://tmepma.cgg.gov.in/jsp/newTemplate16072022/img/titlepng.png",
+      "source": "https://tmepma.cgg.gov.in/",
+      "nodeIds": [
+        "agency-mepma"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 725,
+      "originalHeight": 120
+    },
+    {
+      "id": "treasury",
+      "name": "Treasuries and Accounts",
+      "path": "/logos/treasury.webp",
+      "original": "https://treasury.telangana.gov.in/cimages/treasurry-logo.png",
+      "source": "https://treasury.telangana.gov.in/",
+      "nodeIds": [
+        "n423"
+      ],
+      "kind": "official-logo",
+      "reviewed": true,
+      "originalWidth": 2465,
+      "originalHeight": 1059
+    },
+    {
+      "id": "hydraa",
+      "name": "HYDRAA",
+      "remote": "https://hydraa.telangana.gov.in/Assets/HYDRAA_logo.png",
+      "fallback": "/logos/state-emblem.webp",
+      "original": "https://hydraa.telangana.gov.in/Assets/HYDRAA_logo.png",
+      "source": "https://hydraa.telangana.gov.in/about",
+      "nodeIds": [
+        "agency-hydraa"
+      ],
+      "kind": "official-logo-remote",
+      "reviewed": false,
+      "availability": "Source URL verified on agency page; direct download timed out during this audit."
+    }
+  ]
+}

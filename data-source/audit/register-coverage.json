@@ -1,0 +1,2041 @@
+{
+  "checked": "17 Nov 2026",
+  "baselineCommit": "d6a53d86bff053baab99844db82b0a579f25993f",
+  "referenceYear": "2026-27",
+  "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+  "sourceLandingPage": "https://www.telangana.gov.in/budget-2026-2027/",
+  "referenceEntries": 201,
+  "baselineCounts": {
+    "represented": 158,
+    "grouped_or_label_gap": 13,
+    "absent": 30
+  },
+  "entries": [
+    {
+      "index": 1,
+      "name": "AGRICULTURE AND CO-OPERATION, SECRETARIAT DEPARTMENT",
+      "printedPages": "1",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-agriculture-and-co-operation"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 2,
+      "name": "AGRICULTURE,HOD",
+      "printedPages": "1 -3",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n30"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 3,
+      "name": "HORTICULTURE,HOD",
+      "printedPages": "3 -4",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n70"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 4,
+      "name": "SERICULTURE, HOD",
+      "printedPages": "4 -5",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n82"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 5,
+      "name": "DIRECTOR OF MARKETING, HOD",
+      "printedPages": "5 -6",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n64"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 6,
+      "name": "REGISTRAR OF CO-OPERATIVE SOCIETIES",
+      "printedPages": "6 -7",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n41"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 7,
+      "name": "ANIMAL HUSBANDRY, DAIRY DEVELOPMENT & FISHERIES, SECRETARIAT DEPARTMENT",
+      "printedPages": "7",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-animal-husbandry-and-fisheries"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 8,
+      "name": "ANIMAL HUSBANDRY,HOD",
+      "printedPages": "7 -8",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n101"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 9,
+      "name": "FISHERIES, HOD",
+      "printedPages": "8 -9",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n105"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 10,
+      "name": "BACKWARD CLASSES WELFARE DEPARTMENT, SECRETARIAT DEPARTMENT",
+      "printedPages": "9 -10",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-backward-classes-welfare"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 11,
+      "name": "BACKWARD CLASSES WELFARE, HOD",
+      "printedPages": "10",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n141"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 12,
+      "name": "T.G. COMMISSION FOR BACKWARD CLASSES",
+      "printedPages": "11",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n150"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 13,
+      "name": "ENVIRONMENT, FOREST, SCIENCE & TECHNOLOGY, SECRETARIAT DEPARTMENT",
+      "printedPages": "11",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-environment-forests"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 14,
+      "name": "PRINCIPAL CHIEF CONSERVATOR OF FOREST, HOD",
+      "printedPages": "11 -14",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n379"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 15,
+      "name": "HIGHER EDUCATION, SECRETARIAT DEPARTMENT",
+      "printedPages": "14",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-higher-education"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 16,
+      "name": "TECHNICAL EDUCATION, HOD",
+      "printedPages": "14 -17",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n554"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 17,
+      "name": "COLLEGIATE EDUCATION, HOD",
+      "printedPages": "18 -19",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n558"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 18,
+      "name": "ARCHIVES TARNAKA",
+      "printedPages": "20",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n567"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 19,
+      "name": "INTERMEDIATE EDUCATION, HOD",
+      "printedPages": "20 -22",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n561"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 20,
+      "name": "ORIENTAL MANUSCRIPTS",
+      "printedPages": "22 -23",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n570"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 21,
+      "name": "TELANGANA ADMISSION AND FEE REGULATORY COMMITTEE",
+      "printedPages": "23",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-fee-regulatory"
+    },
+    {
+      "index": 22,
+      "name": "STATE NATIONAL SERVICE SCHEME",
+      "printedPages": "23",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n576"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 23,
+      "name": "ENERGY,SECRETARIAT DEPARTMENT",
+      "printedPages": "23",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-energy"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 24,
+      "name": "CHIEF ELECTRICAL INSPECTOR TO GOVERNMENT, HOD",
+      "printedPages": "24",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n358"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 25,
+      "name": "SECONDARY EDUCATION, SECRETARIAT DEPARTMENT",
+      "printedPages": "24",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-school-education-se-wing"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 26,
+      "name": "SCHOOL EDUCATION,HOD",
+      "printedPages": "25 -31",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1275"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 27,
+      "name": "GOVERNMENT EXAMINATIONS, HOD",
+      "printedPages": "31",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1283"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 28,
+      "name": "REGISTRAR OF PUBLICATIONS, H.O.D",
+      "printedPages": "31",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-registrar-publications"
+    },
+    {
+      "index": 29,
+      "name": "ADULT EDUCATION,HOD",
+      "printedPages": "31 -32",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1280"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 30,
+      "name": "PUBLIC LIBRARIES, H.O.D.",
+      "printedPages": "32",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1295"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 31,
+      "name": "JAWAHAR BAL BHAWAN, H.O.D.",
+      "printedPages": "33",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1297"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 32,
+      "name": "GOVERNMENT TEXT BOOK PRESS, HOD",
+      "printedPages": "33 -36",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1293"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 33,
+      "name": "FOOD & CIVIL SUPPLIES, SECRETARIAT DEPARTMENT",
+      "printedPages": "36",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-consumer-affairs-food-civil-supplies"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 34,
+      "name": "CIVIL SUPPLIES, HOD",
+      "printedPages": "36 -37",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n191"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 35,
+      "name": "LEGAL METROLOGY,HOD",
+      "printedPages": "38",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n201"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 36,
+      "name": "STATE CONSUMER DISPUTES REDRESSAL COMMISSION, HOD",
+      "printedPages": "38 -39",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n203"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 37,
+      "name": "FINANCE, SECRETARIAT DEPARTMENT",
+      "printedPages": "39 -40",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-finance"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 38,
+      "name": "TREASURIES AND ACCOUNTS, HOD",
+      "printedPages": "40 -41",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n423"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 39,
+      "name": "STATE AUDIT,HOD",
+      "printedPages": "41",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n421"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 40,
+      "name": "LIFE INSURANCE DEPT, HOD",
+      "printedPages": "41 -42",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n419"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 41,
+      "name": "PAY AND ACCOUNTS OFFICER, HOD",
+      "printedPages": "42",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n428"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 42,
+      "name": "DIRECTOR OF WORKS ACCOUNTS, HOD",
+      "printedPages": "42 -43",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n430"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 43,
+      "name": "TELANGANA STATE FINANCE COMMISION",
+      "printedPages": "43",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-state-finance-commission"
+    },
+    {
+      "index": 44,
+      "name": "GENERAL ADMINISTRATION, SECRETARIAT DEPARTMENT",
+      "printedPages": "43 -45",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-general-administration-political"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 45,
+      "name": "INFORMATION & PUBLIC RELATIONS,HOD",
+      "printedPages": "45 -47",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-information-and-public-relations"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 46,
+      "name": "PUBLIC SERVICE COMMISSION,HOD",
+      "printedPages": "47 -48",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-tgpsc"
+    },
+    {
+      "index": 47,
+      "name": "TRIBUNAL FOR DISCIPLINARY PROCEEDINGS,HOD",
+      "printedPages": "48",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-disciplinary-tribunal"
+    },
+    {
+      "index": 48,
+      "name": "ANTI CORRUPTION BUREAU,HOD",
+      "printedPages": "48 -49",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n614"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 49,
+      "name": "DIRECTOR, PROTOCOL, HOD",
+      "printedPages": "49 -50",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n439"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 50,
+      "name": "GOVERNOR & GOVERNOR SECRETARIAT",
+      "printedPages": "50 -52",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "governor"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 51,
+      "name": "LOK AYUKTA & UPA LOK-AYUKTA, HOD",
+      "printedPages": "52",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-lokayukta"
+    },
+    {
+      "index": 52,
+      "name": "VIGILANCE & ENFORCEMENT, HOD",
+      "printedPages": "53",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n450"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 53,
+      "name": "SPECIAL COMMISSIONER TELANGANA BHAVAN, NEW DELHI,HOD",
+      "printedPages": "54",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n454"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 54,
+      "name": "VIGILANCE COMMISSION",
+      "printedPages": "54 -55",
+      "baselineStatus": "grouped_or_label_gap",
+      "baselineNodeIds": [
+        "n451"
+      ],
+      "note": "A Vigilance Commissioner contact was present; the commission was not a separate body.",
+      "resolvedNodeId": "office-vigilance-commission"
+    },
+    {
+      "index": 55,
+      "name": "MCR HRD INSTITUTE,HOD",
+      "printedPages": "55 -56",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-mcrhrdi"
+    },
+    {
+      "index": 56,
+      "name": "CHIEF ELECTORAL OFFICER, ELECTIONS",
+      "printedPages": "56",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n436"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 57,
+      "name": "DIRECTOR OF TRANSLATIONS",
+      "printedPages": "56 -57",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-translations"
+    },
+    {
+      "index": 58,
+      "name": "INFORMATION COMMISSION, HOD",
+      "printedPages": "57",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "commission"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 59,
+      "name": "COMMISSIONERATE OF INQUIRES",
+      "printedPages": "57",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n448"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 60,
+      "name": "ESTATE OFFICER.",
+      "printedPages": "57 -58",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-estate-officer"
+    },
+    {
+      "index": 61,
+      "name": "TELANGANA HUMAN RIGHTS COMMISSION",
+      "printedPages": "58",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-human-rights-commission"
+    },
+    {
+      "index": 62,
+      "name": "HEALTH, MEDICAL & FAMILY WELFARE DEPARTMENT, SECRETARIAT DEPARTMENT",
+      "printedPages": "58 -59",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-health-medical-family-welfare-science-technology"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 63,
+      "name": "DIRECTOR OF MEDICAL EDUCATION, HOD",
+      "printedPages": "59 -67",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n527"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 64,
+      "name": "DIRECTOR OF PUBLIC HEALTH AND FAMILY WELFARE, HOD",
+      "printedPages": "67 -70",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n494"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 65,
+      "name": "COMMISSIONER OF HEALTH AND FAMILY WELFARE, HOD",
+      "printedPages": "70 -72",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n482"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 66,
+      "name": "INSTITUTE OF PREVENTIVE MEDICINE, HOD",
+      "printedPages": "72 -74",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n508"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 67,
+      "name": "DEPARTMENT OF AYURVEDA,YOGA,UNANI,SIDDHA & HOMOEOPATHY (AYUSH) , HOD",
+      "printedPages": "74 -77",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n515"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 68,
+      "name": "DRUGS CONTROL ADMN, HOD",
+      "printedPages": "78",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n512"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 69,
+      "name": "TELANGANA VAIDYA VIDHANA PARISHAD",
+      "printedPages": "78 -81",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n503"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 70,
+      "name": "HOME, SECRETARIAT DEPARTMENT",
+      "printedPages": "81",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-home-department"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 71,
+      "name": "DIRECTOR GENERAL & INSPECTOR GENERAL OF POLICE, HOD",
+      "printedPages": "82 -85",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n583"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 72,
+      "name": "DIRECTOR GENERAL OF PRISON AND CORRECTIONAL SERVICES, HOD",
+      "printedPages": "85 -87",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n632"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 73,
+      "name": "PRINTING, STATIONERY & STORES PURCHASE, HOD",
+      "printedPages": "87 -90",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n636"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 74,
+      "name": "DIRECTOR GENERAL OF STATE DISASTER RESPONSE AND FIRE SERVICES, HOD",
+      "printedPages": "90 -91",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n634"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 75,
+      "name": "SAINIK WELFARE, HOD",
+      "printedPages": "91 -92",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-sainik-welfare"
+    },
+    {
+      "index": 76,
+      "name": "POLICE ACADEMY",
+      "printedPages": "92 -93",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n640"
+      ],
+      "note": "Matched to an existing police body."
+    },
+    {
+      "index": 77,
+      "name": "COMMISSIONER OF CITY POLICE, HOD",
+      "printedPages": "93 -94",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n604"
+      ],
+      "note": "Matched to an existing police body."
+    },
+    {
+      "index": 78,
+      "name": "I.G. INTELLIGENCE",
+      "printedPages": "94 -96",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n598"
+      ],
+      "note": "Matched to an existing police body."
+    },
+    {
+      "index": 79,
+      "name": "CIVIL DEFENCE ORGANISATION",
+      "printedPages": "96",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-civil-defence"
+    },
+    {
+      "index": 80,
+      "name": "D.G. SPECIAL PROTECTION FORCE",
+      "printedPages": "96 -97",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n628"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 81,
+      "name": "I.G. GREY HOUNDS",
+      "printedPages": "97 -98",
+      "baselineStatus": "grouped_or_label_gap",
+      "baselineNodeIds": [
+        "n592"
+      ],
+      "note": "Greyhounds was mentioned in the shared DGP (Operations), Greyhounds & Octopus contact rather than a separate body.",
+      "resolvedNodeId": "office-greyhounds"
+    },
+    {
+      "index": 82,
+      "name": "COMMISSIONER OF CYBERABAD POLICE, HOD",
+      "printedPages": "98 -99",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n606"
+      ],
+      "note": "Matched to an existing police body."
+    },
+    {
+      "index": 83,
+      "name": "Addl. DIRECTOR GENERAL, ORGANISATION OF COUNTER TERRORIST OPERATIONS (OCTOPUS)",
+      "printedPages": "100",
+      "baselineStatus": "grouped_or_label_gap",
+      "baselineNodeIds": [
+        "n592"
+      ],
+      "note": "OCTOPUS was mentioned in the shared DGP (Operations), Greyhounds & Octopus contact rather than a separate body.",
+      "resolvedNodeId": "office-octopus"
+    },
+    {
+      "index": 84,
+      "name": "MALKAJGIRI POLICE COMMISIONERATE, HOD",
+      "printedPages": "100 -101",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n608"
+      ],
+      "note": "Matched to an existing police body."
+    },
+    {
+      "index": 85,
+      "name": "TELANGANA CYBER SECURITY BUREAU",
+      "printedPages": "101 -102",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n616"
+      ],
+      "note": "Matched to an existing police body."
+    },
+    {
+      "index": 86,
+      "name": "EAGLE FORCE , HOD",
+      "printedPages": "102 -103",
+      "baselineStatus": "grouped_or_label_gap",
+      "baselineNodeIds": [
+        "n612"
+      ],
+      "note": "The earlier Telangana Anti Narcotics Bureau entry did not use the current EAGLE Force label.",
+      "resolvedNodeId": "n612"
+    },
+    {
+      "index": 87,
+      "name": "Telangana Integrated Command and Control Centre",
+      "printedPages": "103 -104",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-iccc"
+    },
+    {
+      "index": 88,
+      "name": "COMMISSIONER OF POLICE FUTURE CITY",
+      "printedPages": "104",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-future-city-police"
+    },
+    {
+      "index": 89,
+      "name": "WEAKER SECTION HOUSING PROGRAMME",
+      "printedPages": "104",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n651"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 90,
+      "name": "IRRIGATION & COMMAND AREA DEVELOPMENT, SECRETARIAT DEPARTMENT",
+      "printedPages": "104 -105",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-irrigation-and-cad"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 91,
+      "name": "ENGINEER-IN-CHIEF, IRRIGATION (GENERAL), HYDERABAD",
+      "printedPages": "105",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n771"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 92,
+      "name": "ENGINEER-IN-CHIEF, IRRIGATION (ADMINISTRATION), HYDERABAD",
+      "printedPages": "106",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n797"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 93,
+      "name": "ENGINEER-IN-CHIEF, IRRIGATION (O&M), HYDERABAD",
+      "printedPages": "106 -107",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n776"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 94,
+      "name": "ENGINEER-IN-CHIEF, IRRIGATION, RAMAGUNDEM",
+      "printedPages": "107",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n793"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 95,
+      "name": "ENGINEER-IN-CHIEF, IRRIGATION, GAJWEL",
+      "printedPages": "107 -108",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n795"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 96,
+      "name": "ENGINEER-IN-CHIEF, IRRIGATION, KARIMNAGAR",
+      "printedPages": "108 -109",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n783"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 97,
+      "name": "CHIEF ENGINEER, IRRIGATION, ADILABAD",
+      "printedPages": "109",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n804"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 98,
+      "name": "CHIEF ENGINEER, IRRIGATION, NIZAMABAD",
+      "printedPages": "109 -110",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n808"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 99,
+      "name": "CHIEF ENGINEER, IRRIGATION, WARANGAL",
+      "printedPages": "110 -111",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n814"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 100,
+      "name": "CHIEF ENGINEER, IRRIGATION, SANGA REDDY",
+      "printedPages": "111",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n818"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 101,
+      "name": "CHIEF ENGINEER, IRRIGATION, NALGONDA",
+      "printedPages": "111 -112",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n820"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 102,
+      "name": "CHIEF ENGINEER, IRRIGATION, MAHABUBNAGAR",
+      "printedPages": "112 -113",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n826"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 103,
+      "name": "CHIEF ENGINEER, IRRIGATION, HYDERABAD",
+      "printedPages": "113 -114",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n830"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 104,
+      "name": "CHIEF ENGINEER, IRRIGATION, KHAMMAM",
+      "printedPages": "114",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n834"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 105,
+      "name": "CHIEF ENGINEER, IRRIGATION, MANCHERIAL",
+      "printedPages": "114 -115",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n806"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 106,
+      "name": "CHIEF ENGINEER, IRRIGATION, KAMAREDDY",
+      "printedPages": "115",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n810"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 107,
+      "name": "CHIEF ENGINEER, IRRIGATION, JAGITIYAL",
+      "printedPages": "116",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n812"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 108,
+      "name": "CHIEF ENGINEER, IRRIGATION, MULUGU",
+      "printedPages": "116 -117",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n816"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 109,
+      "name": "CHIEF ENGINEER, IRRIGATION, SURYAPET",
+      "printedPages": "117",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n822"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 110,
+      "name": "CHIEF ENGINEER, IRRIGATION, WANAPARTHY",
+      "printedPages": "117 -118",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n824"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 111,
+      "name": "CHIEF ENGINEER, IRRIGATION, NAGARKURNOOL",
+      "printedPages": "118 -119",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n828"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 112,
+      "name": "CHIEF ENGINEER, IRRIGATION, KOTHAGUDEM",
+      "printedPages": "119",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n832"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 113,
+      "name": "CHIEF ENGINEER, CDO, HYDERABAD",
+      "printedPages": "120",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n789"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 114,
+      "name": "CHIEF ENGINEER, QUALITY CONTROL, TG",
+      "printedPages": "120",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n836"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 115,
+      "name": "CHIEF ENGINEER, V & E, HYDERABAD",
+      "printedPages": "121",
+      "baselineStatus": "grouped_or_label_gap",
+      "baselineNodeIds": [
+        "n769"
+      ],
+      "note": "Represented with the alternate contact heading Chief Engineer, Enquires.",
+      "resolvedNodeId": "n769"
+    },
+    {
+      "index": 116,
+      "name": "DIRECTOR GENERAL, WALAMTARI",
+      "printedPages": "121 -122",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n785"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 117,
+      "name": "DIRECTOR, GROUND WATER DEPARTMENT, HOD",
+      "printedPages": "122 -123",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-ground-water"
+    },
+    {
+      "index": 118,
+      "name": "COMMISSIONER, RESETTLEMENT AND REHABILITATION, HOD",
+      "printedPages": "123 -124",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-resettlement-rehabilitation"
+    },
+    {
+      "index": 119,
+      "name": "INDUSTRIES AND COMMERCE, SECRETARIAT DEPARTMENT",
+      "printedPages": "124",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-industries-and-commerce"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 120,
+      "name": "INDUSTRIES, HOD",
+      "printedPages": "124 -125",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n664"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 121,
+      "name": "HANDLOOMS & TEXTILES, HOD",
+      "printedPages": "125 -126",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-handlooms-textiles"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 122,
+      "name": "MINES AND GEOLOGY, HOD",
+      "printedPages": "126 -127",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-mines-geology"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 123,
+      "name": "SUGAR CANE COMMISSIONER, HOD",
+      "printedPages": "127",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n672"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 124,
+      "name": "COMMERCE AND EXPORT PROMOTION, HOD",
+      "printedPages": "127 -128",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-commerce-export"
+    },
+    {
+      "index": 125,
+      "name": "PUBLIC ENTERPRISES, SECRETARIAT DEPARTMENT",
+      "printedPages": "128",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-public-enterprises"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 126,
+      "name": "INFORMATION TECHNOLOGY, ELECTRONICS & COMMUNICATIONS, SECRETARIAT DEPARTMENT",
+      "printedPages": "128",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-information-technology-electronics-and-communications"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 127,
+      "name": "DIRECTOR, ELECTRONICALLY DELIVERABLE SERVICES, HOD",
+      "printedPages": "128 -129",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n741"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 128,
+      "name": "LABOUR AND EMPLOYMENT, SECRETARIAT DEPARTMENT",
+      "printedPages": "129",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-labour-employment-training-and-factories"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 129,
+      "name": "EMPLOYMENT AND TRAINING, HOD",
+      "printedPages": "129 -130",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n849"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 130,
+      "name": "LABOUR, HOD",
+      "printedPages": "130 -131",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n844"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 131,
+      "name": "LABOUR COURT-I, HYDERABAD",
+      "printedPages": "131",
+      "baselineStatus": "grouped_or_label_gap",
+      "baselineNodeIds": [
+        "n861"
+      ],
+      "note": "Only the combined Labour Courts group was present.",
+      "resolvedNodeId": "office-register-131"
+    },
+    {
+      "index": 132,
+      "name": "FACTORIES, HOD",
+      "printedPages": "132",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n857"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 133,
+      "name": "LABOUR COURT-II, HYDERABAD",
+      "printedPages": "132",
+      "baselineStatus": "grouped_or_label_gap",
+      "baselineNodeIds": [
+        "n861"
+      ],
+      "note": "Only the combined Labour Courts group was present.",
+      "resolvedNodeId": "office-register-133"
+    },
+    {
+      "index": 134,
+      "name": "LABOUR COURT-III, HYDERABAD",
+      "printedPages": "133",
+      "baselineStatus": "grouped_or_label_gap",
+      "baselineNodeIds": [
+        "n861"
+      ],
+      "note": "Only the combined Labour Courts group was present.",
+      "resolvedNodeId": "office-register-134"
+    },
+    {
+      "index": 135,
+      "name": "LABOUR COURT, WARANGAL",
+      "printedPages": "133",
+      "baselineStatus": "grouped_or_label_gap",
+      "baselineNodeIds": [
+        "n861"
+      ],
+      "note": "Only the combined Labour Courts group was present.",
+      "resolvedNodeId": "office-register-135"
+    },
+    {
+      "index": 136,
+      "name": "LABOUR COURT, GODAVARIKHANI",
+      "printedPages": "133 -134",
+      "baselineStatus": "grouped_or_label_gap",
+      "baselineNodeIds": [
+        "n861"
+      ],
+      "note": "Only the combined Labour Courts group was present.",
+      "resolvedNodeId": "office-register-136"
+    },
+    {
+      "index": 137,
+      "name": "INDUSTRIAL TRIBUNAL-I, HYDERABAD",
+      "printedPages": "134",
+      "baselineStatus": "grouped_or_label_gap",
+      "baselineNodeIds": [
+        "n859"
+      ],
+      "note": "Only the combined Industrial Tribunals group was present.",
+      "resolvedNodeId": "office-register-137"
+    },
+    {
+      "index": 138,
+      "name": "ADDITIONAL INDUSTRIAL TRIBUNAL, HYDERABAD",
+      "printedPages": "134 -135",
+      "baselineStatus": "grouped_or_label_gap",
+      "baselineNodeIds": [
+        "n859"
+      ],
+      "note": "Only the combined Industrial Tribunals group was present.",
+      "resolvedNodeId": "office-register-138"
+    },
+    {
+      "index": 139,
+      "name": "INDUSTRIAL TRIBUNAL-II, HYDERABAD",
+      "printedPages": "135",
+      "baselineStatus": "grouped_or_label_gap",
+      "baselineNodeIds": [
+        "n859"
+      ],
+      "note": "Only the combined Industrial Tribunals group was present.",
+      "resolvedNodeId": "office-register-139"
+    },
+    {
+      "index": 140,
+      "name": "INSURANCE MEDICAL SERVICES, HOD",
+      "printedPages": "135 -138",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-insurance-medical"
+    },
+    {
+      "index": 141,
+      "name": "BOILERS, HOD",
+      "printedPages": "138",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n863"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 142,
+      "name": "LAW DEPARTMENT, SECRETARIAT DEPARTMENT",
+      "printedPages": "138 -139",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-law"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 143,
+      "name": "REGISTRAR OF HIGH COURT",
+      "printedPages": "139 -141",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1865"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 144,
+      "name": "PROSECUTIONS,HOD",
+      "printedPages": "141",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-prosecutions"
+    },
+    {
+      "index": 145,
+      "name": "ADVOCATE GENERAL OFFICE",
+      "printedPages": "141 -142",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n873"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 146,
+      "name": "MEMBER SECRETARY, STATE LEGAL SERVICES AUTHORITY",
+      "printedPages": "142",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-legal-services"
+    },
+    {
+      "index": 147,
+      "name": "JUDICIAL ACADEMY",
+      "printedPages": "142 -143",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-judicial-academy"
+    },
+    {
+      "index": 148,
+      "name": "LEGISLATIVE SECRETARIAT",
+      "printedPages": "143 -144",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n930"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 149,
+      "name": "MUNICIPAL ADMINISTRATION AND URBAN DEVELOPMENT, SECRETARIAT DEPARTMENT",
+      "printedPages": "144 -145",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-municipal-administration-urban-development"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 150,
+      "name": "MUNICIPAL ADMINISTRATION, HOD",
+      "printedPages": "145 -148",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n978"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 151,
+      "name": "TOWN AND COUNTRY PLANNING",
+      "printedPages": "148 -149",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1021"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 152,
+      "name": "PUBLIC HEALTH.",
+      "printedPages": "149 -150",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1025"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 153,
+      "name": "HYDERABAD DISASTER RESPONSE AND ASSET PROTECTION AGENCY (HYDRAA)",
+      "printedPages": "150 -151",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "agency-hydraa"
+    },
+    {
+      "index": 154,
+      "name": "MINORITIES WELFARE DEPARTMENT,SECRETARIAT DEPARTMENT",
+      "printedPages": "151",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-minorities-welfare"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 155,
+      "name": "MINORITIES COMMISSION, HOD",
+      "printedPages": "151",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n962"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 156,
+      "name": "MINORITIES WELFARE, HOD",
+      "printedPages": "151 -152",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n946"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 157,
+      "name": "CHAIRMAN TELANGANA WAKF TRIBUNAL",
+      "printedPages": "152",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n972"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 158,
+      "name": "SURVEY COMMISSION OF WAKFS",
+      "printedPages": "152",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n968"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 159,
+      "name": "TELANGANA MINORITIES STUDY CIRCLE",
+      "printedPages": "153",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n964"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 160,
+      "name": "PLANNING, SECRETARIAT DEPARTMENT",
+      "printedPages": "153",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-planning"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 161,
+      "name": "ECONOMICS AND STATISTICS, HOD",
+      "printedPages": "153 -154",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1176"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 162,
+      "name": "PANCHAYAT RAJ AND RURAL DEVELOPMENT, SECRETARIAT DEPARTMENT",
+      "printedPages": "154 -155",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-panchayat-raj-and-rural-development"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 163,
+      "name": "PANCHAYAT RAJ, HOD",
+      "printedPages": "155 -156",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1120"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 164,
+      "name": "ENGINEER-IN-CHIEF (GENERAL &PANCHAYAT RAJ)",
+      "printedPages": "156 -157",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1140"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 165,
+      "name": "ELECTION COMMISSION, TELANGANA",
+      "printedPages": "157",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1105"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 166,
+      "name": "RURAL DEVELOPMENT. HOD",
+      "printedPages": "157 -158",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1125"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 167,
+      "name": "CHIEF ENGINEER, RURAL WATER SUPPLY",
+      "printedPages": "158 -159",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1152"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 168,
+      "name": "TGIPARD",
+      "printedPages": "159 -160",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1165"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 169,
+      "name": "REVENUE DEPARTMENT, SECRETARIAT DEPARTMENT",
+      "printedPages": "160 -161",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-revenue"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 170,
+      "name": "LAND ADMINISTRATION,HOD",
+      "printedPages": "161 -162",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1199"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 171,
+      "name": "STATE TAXES,HOD",
+      "printedPages": "163",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1249"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 172,
+      "name": "EXCISE,HOD",
+      "printedPages": "163 -165",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1237"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 173,
+      "name": "SURVEY, SETTLEMENT AND LAND RECORDS, HOD",
+      "printedPages": "165 -166",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1208"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 174,
+      "name": "SPECIAL COURT UNDER LAND GRABBING (PROHIBITION) ACT, HOD",
+      "printedPages": "166",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-land-grabbing-court"
+    },
+    {
+      "index": 175,
+      "name": "ENDOWMENTS,HOD",
+      "printedPages": "166 -168",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1217"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 176,
+      "name": "REGISTRATION AND STAMPS, HOD",
+      "printedPages": "168",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1227"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 177,
+      "name": "COMMISSIONER FOR RELIEF, HOD",
+      "printedPages": "168 -169",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-commissioner-relief"
+    },
+    {
+      "index": 178,
+      "name": "TELANGANA VAT APPELLATE TRIBUNAL, HOD",
+      "printedPages": "169",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1214"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 179,
+      "name": "SETTLEMENTS, HOD",
+      "printedPages": "169",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-settlements"
+    },
+    {
+      "index": 180,
+      "name": "PRESIDING OFFICER, LAND ACQUISITION, REHABILITATION AND RESETTLEMENT AUTHORITY",
+      "printedPages": "169",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-land-acquisition-authority"
+    },
+    {
+      "index": 181,
+      "name": "RAIN SHADOW AREAS DEVELOPMENT DEPARTMENT",
+      "printedPages": "170",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-rain-shadow"
+    },
+    {
+      "index": 182,
+      "name": "SCHEDULED CASTES DEVELOPMENT DEPARTMENT, SECRETARIAT DEPARTMENT",
+      "printedPages": "170",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-social-welfare"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 183,
+      "name": "SCHEDULED CASTES DEVELOPMENT DEPARTMENT, HOD",
+      "printedPages": "170 -172",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1314"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 184,
+      "name": "TRANSPORT, ROADS AND BUILDINGS DEPARTMENT, SECRETARIAT DEPARTMENT",
+      "printedPages": "172 -173",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-transport"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 185,
+      "name": "TRANSPORT COMMISSIONER, TELANGANA, HOD",
+      "printedPages": "173 -174",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1345"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 186,
+      "name": "ENGINEER-IN-CHIEF (R&B, NH, ADMN., ROB/RUBs), HOD",
+      "printedPages": "174 -175",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1261"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 187,
+      "name": "TRIBAL WELFARE DEPARTMENT, SECRETARIAT DEPARTMENT",
+      "printedPages": "175",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-tribal-welfare"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 188,
+      "name": "TRIBAL WELFARE,HOD",
+      "printedPages": "176 -178",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1361"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 189,
+      "name": "CHIEF ENGINEER, TRIBAL WELFARE, HOD",
+      "printedPages": "178",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-tribal-chief-engineer"
+    },
+    {
+      "index": 190,
+      "name": "TRIBAL CULTURAL RESEARCH AND TRAINING INSTITUTE",
+      "printedPages": "179",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1375"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 191,
+      "name": "WOMEN, CHILDREN, DISABLED AND SENIOR CITIZENS, SECRETARIAT DEPARTMENT",
+      "printedPages": "180",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-women-and-child-development"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 192,
+      "name": "WOMEN DEVELOPMENT & CHILD WELFARE, HOD",
+      "printedPages": "180 -181",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1399"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 193,
+      "name": "PERSONS WITH DISABILITIES AND SENIOR CITIZENS WELFARE, HOD",
+      "printedPages": "181 -182",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "dept-disability-senior-citizens-transgender"
+    },
+    {
+      "index": 194,
+      "name": "JUVENILE WELFARE,HOD",
+      "printedPages": "182 -183",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1405"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 195,
+      "name": "SECRETARY, TELANGANA WOMEN COMMISSION(TWC)",
+      "printedPages": "183 -184",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1403"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 196,
+      "name": "YOUTH ADVANCEMENT, TOURISM AND CULTURE, SECRETARIAT DEPARTMENT",
+      "printedPages": "184",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-youth-advancement"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 197,
+      "name": "CULTURAL AFFAIRS",
+      "printedPages": "184 -185",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1435"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 198,
+      "name": "TOURISM",
+      "printedPages": "184 -185",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1417"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 199,
+      "name": "YOUTH SERVICES,YUVASAKTI",
+      "printedPages": "186",
+      "baselineStatus": "absent",
+      "baselineNodeIds": [],
+      "note": "No separate body or office in the original application snapshot.",
+      "resolvedNodeId": "office-youth-services"
+    },
+    {
+      "index": 200,
+      "name": "NCC",
+      "printedPages": "186 -187",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "n1429"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    },
+    {
+      "index": 201,
+      "name": "DEPARTMENT OF HERITAGE TELANGANA (ARCHAEOLOGY & MUSEUMS, HOD)",
+      "printedPages": "187 -188",
+      "baselineStatus": "represented",
+      "baselineNodeIds": [
+        "dept-archaeology"
+      ],
+      "note": "Matched to the existing directory office, body or department."
+    }
+  ],
+  "additionalDirectoryBodies": [
+    {
+      "id": "agency-stree-nidhi",
+      "name": "Stree Nidhi Credit Cooperative Federation",
+      "source": "https://www.telangana.gov.in/state-web-directory/",
+      "website": "https://streenidhi.telangana.gov.in/"
+    },
+    {
+      "id": "agency-mepma",
+      "name": "Mission for Elimination of Poverty in Municipal Areas (MEPMA)",
+      "source": "https://www.telangana.gov.in/state-web-directory/",
+      "website": "https://tmepma.cgg.gov.in/"
+    },
+    {
+      "id": "agency-rich",
+      "name": "Research and Innovation Circle of Hyderabad (RICH)",
+      "source": "https://www.telangana.gov.in/state-web-directory/",
+      "website": "https://it.telangana.gov.in/"
+    },
+    {
+      "id": "agency-tsat",
+      "name": "T-SAT / SoFTNET",
+      "source": "https://www.telangana.gov.in/state-web-directory/",
+      "website": "https://softnet.telangana.gov.in/"
+    },
+    {
+      "id": "agency-srds",
+      "name": "Society for Rural Development Services (SRDS)",
+      "source": "https://www.telangana.gov.in/state-web-directory/",
+      "website": "https://rdhrms.telangana.gov.in/"
+    }
+  ],
+  "confirmedMissingEntriesWithinScope": 35
+}

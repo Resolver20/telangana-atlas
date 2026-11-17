@@ -1,0 +1,1629 @@
+{
+  "checked": "17 Nov 2026",
+  "sourceRegister": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+  "nodes": [
+    {
+      "id": "public-bodies",
+      "title": "Other public bodies & tribunals",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Institution discovery grouping",
+      "fields": [
+        [
+          "Structure",
+          "A browsing group, not a department. Constitutional and statutory bodies retain their separate legal arrangements."
+        ]
+      ],
+      "children": [],
+      "parent": "root",
+      "role": {
+        "summary": "A discovery group for public authorities and tribunals with distinct legal roles.",
+        "tasks": [
+          "Open a body to see its source and function",
+          "This group is not a common reporting chain",
+          "Budget association does not establish institutional subordination"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": false
+      }
+    },
+    {
+      "id": "office-fee-regulatory",
+      "title": "Telangana Admission and Fee Regulatory Committee",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 21: TELANGANA ADMISSION AND FEE REGULATORY COMMITTEE"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ]
+      ],
+      "children": [],
+      "parent": "dept-higher-education",
+      "role": {
+        "summary": "Examines admission and fee-regulation matters in its assigned education remit.",
+        "tasks": [
+          "Review fee-related proposals",
+          "Support regulated admission processes",
+          "Apply the rules assigned to the committee"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-registrar-publications",
+      "title": "Registrar of Publications",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 28: REGISTRAR OF PUBLICATIONS, H.O.D"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ]
+      ],
+      "children": [],
+      "parent": "dept-school-education-se-wing",
+      "role": {
+        "summary": "Handles the publications-registration function assigned to this office.",
+        "tasks": [
+          "Process assigned publication matters",
+          "Maintain relevant records",
+          "Support the applicable administrative procedures"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-state-finance-commission",
+      "title": "Telangana State Finance Commission",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 43: TELANGANA STATE FINANCE COMMISION"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ]
+      ],
+      "children": [],
+      "parent": "public-bodies",
+      "role": {
+        "summary": "Examines local-government finances and makes recommendations within its constitutional remit.",
+        "tasks": [
+          "Review local-body financial arrangements",
+          "Examine revenue-sharing issues",
+          "Make recommendations to the state"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-tgpsc",
+      "title": "Telangana Public Service Commission (TGPSC)",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 46: PUBLIC SERVICE COMMISSION,HOD"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ]
+      ],
+      "children": [],
+      "parent": "public-bodies",
+      "role": {
+        "summary": "Carries out public-service recruitment and related commission functions.",
+        "tasks": [
+          "Conduct recruitment examinations and selections",
+          "Publish recruitment notifications and results",
+          "Perform assigned public-service advisory work"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-disciplinary-tribunal",
+      "title": "Tribunal for Disciplinary Proceedings",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 47: TRIBUNAL FOR DISCIPLINARY PROCEEDINGS,HOD"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ]
+      ],
+      "children": [],
+      "parent": "public-bodies",
+      "role": {
+        "summary": "Conducts the disciplinary-proceedings work assigned to the tribunal.",
+        "tasks": [
+          "Examine referred disciplinary cases",
+          "Follow applicable inquiry procedures",
+          "Report findings within its remit"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-lokayukta",
+      "title": "Lokayukta & Upa-Lokayukta",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 51: LOK AYUKTA & UPA LOK-AYUKTA, HOD"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ]
+      ],
+      "children": [],
+      "parent": "public-bodies",
+      "role": {
+        "summary": "Examines complaints about public administration within its statutory jurisdiction.",
+        "tasks": [
+          "Examine complaints within jurisdiction",
+          "Conduct inquiries under applicable law",
+          "Issue findings and recommendations"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-mcrhrdi",
+      "title": "Dr. MCR Human Resource Development Institute",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 55: MCR HRD INSTITUTE,HOD"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ]
+      ],
+      "children": [],
+      "parent": "dept-general-administration-political",
+      "role": {
+        "summary": "Provides training and capacity-building support for public administration.",
+        "tasks": [
+          "Train public-service personnel",
+          "Develop administrative skills",
+          "Support governance-related learning"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-translations",
+      "title": "Director of Translations",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 57: DIRECTOR OF TRANSLATIONS"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ]
+      ],
+      "children": [],
+      "parent": "dept-general-administration-political",
+      "role": {
+        "summary": "Coordinates government translation work assigned to the directorate.",
+        "tasks": [
+          "Translate assigned official material",
+          "Support consistent official terminology",
+          "Coordinate translation workflows"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-estate-officer",
+      "title": "Estate Officer",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 60: ESTATE OFFICER."
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ]
+      ],
+      "children": [],
+      "parent": "dept-general-administration-political",
+      "role": {
+        "summary": "Handles the government-estate matters allocated to this office.",
+        "tasks": [
+          "Maintain assigned estate records",
+          "Process estate-administration matters",
+          "Coordinate the applicable allotment procedures"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-human-rights-commission",
+      "title": "Telangana Human Rights Commission",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 61: TELANGANA HUMAN RIGHTS COMMISSION"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ]
+      ],
+      "children": [],
+      "parent": "public-bodies",
+      "role": {
+        "summary": "Examines human-rights matters within the commission’s legal remit.",
+        "tasks": [
+          "Examine eligible human-rights complaints",
+          "Undertake inquiries within jurisdiction",
+          "Make recommendations under applicable law"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-sainik-welfare",
+      "title": "Sainik Welfare Department",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 75: SAINIK WELFARE, HOD"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ]
+      ],
+      "children": [],
+      "parent": "dept-home-department",
+      "role": {
+        "summary": "Coordinates welfare support for eligible service personnel, veterans and their dependants.",
+        "tasks": [
+          "Administer assigned welfare support",
+          "Help eligible veterans and families",
+          "Coordinate with welfare authorities"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-civil-defence",
+      "title": "Civil Defence Organisation",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 79: CIVIL DEFENCE ORGANISATION"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ]
+      ],
+      "children": [],
+      "parent": "dept-home-department",
+      "role": {
+        "summary": "Supports civil-defence preparedness and related public-safety work.",
+        "tasks": [
+          "Prepare and train civil-defence resources",
+          "Support emergency preparedness",
+          "Coordinate assigned civil-defence activities"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-iccc",
+      "title": "Telangana Integrated Command and Control Centre",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 87: Telangana Integrated Command and Control Centre"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ]
+      ],
+      "children": [],
+      "parent": "dept-home-department",
+      "role": {
+        "summary": "Supports coordinated public-safety information and operational response.",
+        "tasks": [
+          "Bring together operational information",
+          "Support coordination among public-safety units",
+          "Assist response monitoring within its remit"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-future-city-police",
+      "title": "Future City Police Commissionerate",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 88: COMMISSIONER OF POLICE FUTURE CITY"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ]
+      ],
+      "children": [],
+      "parent": "dept-home-department",
+      "role": {
+        "summary": "The police commissionerate listed for Future City in the 2026–27 register.",
+        "tasks": [
+          "Administer policing in its notified jurisdiction",
+          "Coordinate crime prevention and response",
+          "Manage assigned commissionerate functions"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-ground-water",
+      "title": "Ground Water Department",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 117: DIRECTOR, GROUND WATER DEPARTMENT, HOD"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ]
+      ],
+      "children": [],
+      "parent": "dept-irrigation-and-cad",
+      "role": {
+        "summary": "Studies and monitors groundwater resources and supports their management.",
+        "tasks": [
+          "Monitor groundwater conditions",
+          "Carry out groundwater investigations",
+          "Provide technical inputs on water resources"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-resettlement-rehabilitation",
+      "title": "Commissioner, Resettlement & Rehabilitation",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 118: COMMISSIONER, RESETTLEMENT AND REHABILITATION, HOD"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ]
+      ],
+      "children": [],
+      "parent": "dept-irrigation-and-cad",
+      "role": {
+        "summary": "Coordinates the resettlement and rehabilitation work assigned to the office.",
+        "tasks": [
+          "Review assigned rehabilitation matters",
+          "Coordinate implementing authorities",
+          "Monitor relevant resettlement programmes"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-commerce-export",
+      "title": "Commerce & Export Promotion",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 124: COMMERCE AND EXPORT PROMOTION, HOD"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ]
+      ],
+      "children": [],
+      "parent": "dept-industries-and-commerce",
+      "role": {
+        "summary": "Supports commerce and export-promotion work assigned to the office.",
+        "tasks": [
+          "Coordinate export-promotion initiatives",
+          "Facilitate relevant trade matters",
+          "Support government commerce programmes"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-insurance-medical",
+      "title": "Insurance Medical Services",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 140: INSURANCE MEDICAL SERVICES, HOD"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ]
+      ],
+      "children": [],
+      "parent": "dept-labour-employment-training-and-factories",
+      "role": {
+        "summary": "Administers medical services within the employee-insurance remit.",
+        "tasks": [
+          "Coordinate eligible medical services",
+          "Administer assigned facilities and programmes",
+          "Support employee-insurance healthcare delivery"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-prosecutions",
+      "title": "Directorate of Prosecutions",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 144: PROSECUTIONS,HOD"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ]
+      ],
+      "children": [],
+      "parent": "dept-law",
+      "role": {
+        "summary": "Coordinates the prosecution service within its assigned legal remit.",
+        "tasks": [
+          "Support prosecution administration",
+          "Coordinate assigned prosecution work",
+          "Monitor service matters within its remit"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-legal-services",
+      "title": "Telangana State Legal Services Authority",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 146: MEMBER SECRETARY, STATE LEGAL SERVICES AUTHORITY"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ]
+      ],
+      "children": [],
+      "parent": "public-bodies",
+      "role": {
+        "summary": "Coordinates legal-services and access-to-justice work under its statutory remit.",
+        "tasks": [
+          "Support eligible legal-aid services",
+          "Coordinate legal-awareness activities",
+          "Support assigned alternative-dispute-resolution programmes"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-judicial-academy",
+      "title": "Telangana Judicial Academy",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 147: JUDICIAL ACADEMY"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ]
+      ],
+      "children": [],
+      "parent": "public-bodies",
+      "role": {
+        "summary": "Provides judicial training and professional learning.",
+        "tasks": [
+          "Organise judicial training",
+          "Support continuing professional education",
+          "Develop training and reference material"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "agency-hydraa",
+      "title": "HYDRAA",
+      "sub": "Hyderabad Disaster Response and Asset Protection Agency",
+      "source": "https://hydraa.telangana.gov.in/about",
+      "kind": "Agency under MA&UD",
+      "fields": [
+        [
+          "Parent department",
+          "Municipal Administration & Urban Development (MA&UD)"
+        ],
+        [
+          "Governing body chair",
+          "Chief Minister of Telangana"
+        ],
+        [
+          "Jurisdiction",
+          "Notified Core Urban Region (CURE), as described by the agency; not statewide and not simply Hyderabad district."
+        ],
+        [
+          "Headquarters",
+          "7th Floor, Buddha Bhavan, Rani Gunj, Secunderabad – 500003"
+        ],
+        [
+          "Primary source",
+          "https://hydraa.telangana.gov.in/about"
+        ]
+      ],
+      "children": [],
+      "parent": "dept-municipal-administration-urban-development",
+      "role": {
+        "summary": "Protects public assets and coordinates disaster-related work in the notified Core Urban Region.",
+        "tasks": [
+          "Safeguard lakes, nalas and public land",
+          "Coordinate urban disaster preparedness and response",
+          "Support enforcement within its notified remit"
+        ],
+        "source": "https://hydraa.telangana.gov.in/about",
+        "qualified": false
+      },
+      "aliases": [
+        "HYDRA",
+        "HYDRAA",
+        "Hyderabad Disaster Response and Asset Protection Agency"
+      ],
+      "geography": {
+        "label": "Notified Core Urban Region (CURE)",
+        "note": "HYDRAA describes its remit as the notified Core Urban Region (CURE). This map contains district and Assembly boundaries, not a verified HYDRAA jurisdiction polygon."
+      }
+    },
+    {
+      "id": "office-land-grabbing-court",
+      "title": "Special Court under the Land Grabbing (Prohibition) Act",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 174: SPECIAL COURT UNDER LAND GRABBING (PROHIBITION) ACT, HOD"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ]
+      ],
+      "children": [],
+      "parent": "public-bodies",
+      "role": {
+        "summary": "The special-court office listed under this heading in the staffing register.",
+        "tasks": [
+          "Handle matters within its notified legal remit",
+          "Follow applicable court procedure",
+          "Maintain the assigned judicial administration"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-commissioner-relief",
+      "title": "Commissioner for Relief",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 177: COMMISSIONER FOR RELIEF, HOD"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ]
+      ],
+      "children": [],
+      "parent": "dept-revenue",
+      "role": {
+        "summary": "Coordinates the relief-administration work assigned to the office.",
+        "tasks": [
+          "Process assigned relief matters",
+          "Coordinate with relevant authorities",
+          "Monitor relief administration within its remit"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-settlements",
+      "title": "Settlements Office",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 179: SETTLEMENTS, HOD"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ]
+      ],
+      "children": [],
+      "parent": "dept-revenue",
+      "role": {
+        "summary": "Handles the settlement-administration function separately listed in the register.",
+        "tasks": [
+          "Process assigned settlement matters",
+          "Maintain relevant settlement records",
+          "Coordinate applicable administrative procedures"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-land-acquisition-authority",
+      "title": "Land Acquisition, Rehabilitation & Resettlement Authority",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 180: PRESIDING OFFICER, LAND ACQUISITION, REHABILITATION AND RESETTLEMENT AUTHORITY"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ]
+      ],
+      "children": [],
+      "parent": "public-bodies",
+      "role": {
+        "summary": "Handles referred matters within the authority’s statutory jurisdiction.",
+        "tasks": [
+          "Examine eligible references",
+          "Conduct the applicable proceedings",
+          "Decide matters within its legal remit"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-rain-shadow",
+      "title": "Rain Shadow Areas Development Department",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 181: RAIN SHADOW AREAS DEVELOPMENT DEPARTMENT"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ]
+      ],
+      "children": [],
+      "parent": "dept-revenue",
+      "role": {
+        "summary": "The Rain Shadow Areas Development office retained in the 2026–27 staffing register.",
+        "tasks": [
+          "Perform work assigned under this budget heading",
+          "Coordinate relevant administrative matters",
+          "Current operational allocation requires confirmation"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-tribal-chief-engineer",
+      "title": "Chief Engineer, Tribal Welfare",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 189: CHIEF ENGINEER, TRIBAL WELFARE, HOD"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ]
+      ],
+      "children": [],
+      "parent": "dept-tribal-welfare",
+      "role": {
+        "summary": "Coordinates engineering work assigned to Tribal Welfare.",
+        "tasks": [
+          "Examine assigned engineering proposals",
+          "Monitor relevant infrastructure works",
+          "Coordinate technical administration"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "dept-disability-senior-citizens-transgender",
+      "title": "Empowerment of Persons with Disabilities, Senior Citizens & Transgender Persons",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Department / HOD",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 193: PERSONS WITH DISABILITIES AND SENIOR CITIZENS WELFARE, HOD"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ],
+        [
+          "Portfolio source",
+          "https://www.telangana.gov.in/government/council-of-ministers/"
+        ]
+      ],
+      "children": [],
+      "parent": "minister12",
+      "role": {
+        "summary": "Coordinates the welfare subjects assigned to this disability, senior-citizens and transgender-persons portfolio.",
+        "tasks": [
+          "Support disability-welfare programmes",
+          "Coordinate senior-citizen welfare",
+          "Support empowerment programmes in the assigned remit"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      },
+      "extraParents": [
+        "departments"
+      ]
+    },
+    {
+      "id": "office-youth-services",
+      "title": "Youth Services / Yuvasakti",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Office listed in 2026–27 register",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 appendix entry 199: YOUTH SERVICES,YUVASAKTI"
+        ],
+        [
+          "Verification scope",
+          "The register confirms this office listing. Current staffing and detailed powers are not inferred."
+        ],
+        [
+          "Association basis",
+          "Placed with its published budget/portfolio sector; this alone does not certify every reporting relationship."
+        ]
+      ],
+      "children": [],
+      "parent": "dept-sports-and-youth-services",
+      "role": {
+        "summary": "Coordinates the youth-service functions assigned to the office.",
+        "tasks": [
+          "Organise assigned youth programmes",
+          "Support youth-development activities",
+          "Coordinate with implementing institutions"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-register-131",
+      "title": "Labour Court-I, Hyderabad",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Register-listed office",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 entry 131: LABOUR COURT-I, HYDERABAD"
+        ],
+        [
+          "Incumbent",
+          "No current presiding-officer name is inferred from the older grouped contact."
+        ]
+      ],
+      "children": [],
+      "parent": "n861",
+      "role": {
+        "summary": "The individually named court or tribunal listed in the staffing register.",
+        "tasks": [
+          "Handle matters within its legal jurisdiction",
+          "Conduct the applicable judicial proceedings",
+          "Maintain its assigned court administration"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-register-133",
+      "title": "Labour Court-II, Hyderabad",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Register-listed office",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 entry 133: LABOUR COURT-II, HYDERABAD"
+        ],
+        [
+          "Incumbent",
+          "No current presiding-officer name is inferred from the older grouped contact."
+        ]
+      ],
+      "children": [],
+      "parent": "n861",
+      "role": {
+        "summary": "The individually named court or tribunal listed in the staffing register.",
+        "tasks": [
+          "Handle matters within its legal jurisdiction",
+          "Conduct the applicable judicial proceedings",
+          "Maintain its assigned court administration"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-register-134",
+      "title": "Labour Court-III, Hyderabad",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Register-listed office",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 entry 134: LABOUR COURT-III, HYDERABAD"
+        ],
+        [
+          "Incumbent",
+          "No current presiding-officer name is inferred from the older grouped contact."
+        ]
+      ],
+      "children": [],
+      "parent": "n861",
+      "role": {
+        "summary": "The individually named court or tribunal listed in the staffing register.",
+        "tasks": [
+          "Handle matters within its legal jurisdiction",
+          "Conduct the applicable judicial proceedings",
+          "Maintain its assigned court administration"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-register-135",
+      "title": "Labour Court, Warangal",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Register-listed office",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 entry 135: LABOUR COURT, WARANGAL"
+        ],
+        [
+          "Incumbent",
+          "No current presiding-officer name is inferred from the older grouped contact."
+        ]
+      ],
+      "children": [],
+      "parent": "n861",
+      "role": {
+        "summary": "The individually named court or tribunal listed in the staffing register.",
+        "tasks": [
+          "Handle matters within its legal jurisdiction",
+          "Conduct the applicable judicial proceedings",
+          "Maintain its assigned court administration"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-register-136",
+      "title": "Labour Court, Godavarikhani",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Register-listed office",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 entry 136: LABOUR COURT, GODAVARIKHANI"
+        ],
+        [
+          "Incumbent",
+          "No current presiding-officer name is inferred from the older grouped contact."
+        ]
+      ],
+      "children": [],
+      "parent": "n861",
+      "role": {
+        "summary": "The individually named court or tribunal listed in the staffing register.",
+        "tasks": [
+          "Handle matters within its legal jurisdiction",
+          "Conduct the applicable judicial proceedings",
+          "Maintain its assigned court administration"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-register-137",
+      "title": "Industrial Tribunal-I, Hyderabad",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Register-listed office",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 entry 137: INDUSTRIAL TRIBUNAL-I, HYDERABAD"
+        ],
+        [
+          "Incumbent",
+          "No current presiding-officer name is inferred from the older grouped contact."
+        ]
+      ],
+      "children": [],
+      "parent": "n859",
+      "role": {
+        "summary": "The individually named court or tribunal listed in the staffing register.",
+        "tasks": [
+          "Handle matters within its legal jurisdiction",
+          "Conduct the applicable judicial proceedings",
+          "Maintain its assigned court administration"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-register-138",
+      "title": "Additional Industrial Tribunal, Hyderabad",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Register-listed office",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 entry 138: ADDITIONAL INDUSTRIAL TRIBUNAL, HYDERABAD"
+        ],
+        [
+          "Incumbent",
+          "No current presiding-officer name is inferred from the older grouped contact."
+        ]
+      ],
+      "children": [],
+      "parent": "n859",
+      "role": {
+        "summary": "The individually named court or tribunal listed in the staffing register.",
+        "tasks": [
+          "Handle matters within its legal jurisdiction",
+          "Conduct the applicable judicial proceedings",
+          "Maintain its assigned court administration"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-register-139",
+      "title": "Industrial Tribunal-II, Hyderabad",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Register-listed office",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 entry 139: INDUSTRIAL TRIBUNAL-II, HYDERABAD"
+        ],
+        [
+          "Incumbent",
+          "No current presiding-officer name is inferred from the older grouped contact."
+        ]
+      ],
+      "children": [],
+      "parent": "n859",
+      "role": {
+        "summary": "The individually named court or tribunal listed in the staffing register.",
+        "tasks": [
+          "Handle matters within its legal jurisdiction",
+          "Conduct the applicable judicial proceedings",
+          "Maintain its assigned court administration"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-vigilance-commission",
+      "title": "Telangana Vigilance Commission",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+      "kind": "Register-listed office",
+      "fields": [
+        [
+          "Register reference",
+          "2026–27 entry 54"
+        ],
+        [
+          "Staffing note",
+          "The earlier directory had a Vigilance Commissioner contact under a different group. No incumbent is carried over to this body."
+        ]
+      ],
+      "children": [],
+      "parent": "public-bodies",
+      "role": {
+        "summary": "The vigilance commission separately listed in the staffing register.",
+        "tasks": [
+          "Handle the vigilance work legally assigned to it",
+          "Examine referred vigilance matters",
+          "Provide advice within its remit"
+        ],
+        "source": "https://www.telangana.gov.in/wp-content/uploads/2026/05/Employee-Strength-of-Govt.-Dept.pdf",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-greyhounds",
+      "title": "Greyhounds",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/news/press-releases/2026/01/honble-cm-sri-a-revanth-reddy-participated-in-arrive-alive-road-safety-awareness-programme-at-yousufguda-indoor-stadium/",
+      "kind": "Register-listed office",
+      "fields": [
+        [
+          "Existing coverage",
+          "Previously mentioned only in the shared DGP (Operations), Greyhounds & Octopus contact."
+        ]
+      ],
+      "children": [],
+      "parent": "n583",
+      "role": {
+        "summary": "A specialist police unit for the operations assigned to it.",
+        "tasks": [
+          "Carry out assigned specialist operations",
+          "Train personnel in specialist tactics",
+          "Coordinate with police leadership"
+        ],
+        "source": "https://www.telangana.gov.in/news/press-releases/2026/01/honble-cm-sri-a-revanth-reddy-participated-in-arrive-alive-road-safety-awareness-programme-at-yousufguda-indoor-stadium/",
+        "qualified": true
+      }
+    },
+    {
+      "id": "office-octopus",
+      "title": "OCTOPUS",
+      "sub": "",
+      "source": "https://www.telangana.gov.in/news/press-releases/2026/01/honble-cm-sri-a-revanth-reddy-participated-in-arrive-alive-road-safety-awareness-programme-at-yousufguda-indoor-stadium/",
+      "kind": "Register-listed office",
+      "fields": [
+        [
+          "Existing coverage",
+          "Previously mentioned only in the shared DGP (Operations), Greyhounds & Octopus contact."
+        ]
+      ],
+      "children": [],
+      "parent": "n583",
+      "role": {
+        "summary": "The specialist counter-terrorism unit identified in the government’s police references.",
+        "tasks": [
+          "Carry out assigned counter-terrorism work",
+          "Support specialist operational preparedness",
+          "Coordinate with relevant police units"
+        ],
+        "source": "https://www.telangana.gov.in/news/press-releases/2026/01/honble-cm-sri-a-revanth-reddy-participated-in-arrive-alive-road-safety-awareness-programme-at-yousufguda-indoor-stadium/",
+        "qualified": true
+      }
+    },
+    {
+      "id": "agency-stree-nidhi",
+      "title": "Stree Nidhi Credit Cooperative Federation",
+      "sub": "",
+      "source": "https://streenidhi.telangana.gov.in/",
+      "kind": "Body linked by state directory",
+      "fields": [
+        [
+          "Directory source",
+          "https://www.telangana.gov.in/state-web-directory/"
+        ]
+      ],
+      "children": [],
+      "parent": "dept-panchayat-raj-and-rural-development",
+      "role": {
+        "summary": "Supports credit access for self-help-group members.",
+        "tasks": [
+          "Supplement credit access for eligible SHG members",
+          "Coordinate with community institutions",
+          "Support the federation’s credit programmes"
+        ],
+        "source": "https://streenidhi.telangana.gov.in/",
+        "qualified": true
+      }
+    },
+    {
+      "id": "agency-mepma",
+      "title": "Mission for Elimination of Poverty in Municipal Areas (MEPMA)",
+      "sub": "",
+      "source": "https://tmepma.cgg.gov.in/",
+      "kind": "Body linked by state directory",
+      "fields": [
+        [
+          "Directory source",
+          "https://www.telangana.gov.in/state-web-directory/"
+        ]
+      ],
+      "children": [],
+      "parent": "dept-municipal-administration-urban-development",
+      "role": {
+        "summary": "Coordinates urban poverty-reduction and livelihood programmes.",
+        "tasks": [
+          "Support urban self-help groups and livelihoods",
+          "Coordinate relevant skill and self-employment programmes",
+          "Support urban-poverty programme implementation"
+        ],
+        "source": "https://tmepma.cgg.gov.in/",
+        "qualified": true
+      }
+    },
+    {
+      "id": "agency-rich",
+      "title": "Research and Innovation Circle of Hyderabad (RICH)",
+      "sub": "",
+      "source": "https://it.telangana.gov.in/",
+      "kind": "Body linked by state directory",
+      "fields": [
+        [
+          "Directory source",
+          "https://www.telangana.gov.in/state-web-directory/"
+        ]
+      ],
+      "children": [],
+      "parent": "dept-information-technology-electronics-and-communications",
+      "role": {
+        "summary": "Connects research, industry and the innovation ecosystem.",
+        "tasks": [
+          "Facilitate research-to-industry collaboration",
+          "Support innovation partnerships",
+          "Connect relevant institutions and enterprises"
+        ],
+        "source": "https://it.telangana.gov.in/",
+        "qualified": true
+      }
+    },
+    {
+      "id": "agency-tsat",
+      "title": "T-SAT / SoFTNET",
+      "sub": "",
+      "source": "https://softnet.telangana.gov.in/",
+      "kind": "Body linked by state directory",
+      "fields": [
+        [
+          "Directory source",
+          "https://www.telangana.gov.in/state-web-directory/"
+        ]
+      ],
+      "children": [],
+      "parent": "dept-information-technology-electronics-and-communications",
+      "role": {
+        "summary": "Supports educational broadcasting and distance learning.",
+        "tasks": [
+          "Broadcast educational and public-interest programmes",
+          "Support distance-learning access",
+          "Coordinate the network’s content and channels"
+        ],
+        "source": "https://softnet.telangana.gov.in/",
+        "qualified": true
+      }
+    },
+    {
+      "id": "agency-srds",
+      "title": "Society for Rural Development Services (SRDS)",
+      "sub": "",
+      "source": "https://rdhrms.telangana.gov.in/",
+      "kind": "Body linked by state directory",
+      "fields": [
+        [
+          "Directory source",
+          "https://www.telangana.gov.in/state-web-directory/"
+        ]
+      ],
+      "children": [],
+      "parent": "dept-panchayat-raj-and-rural-development",
+      "role": {
+        "summary": "Supports the rural-development services and human-resource function identified by its official portal.",
+        "tasks": [
+          "Support assigned rural-development service administration",
+          "Maintain the relevant HR-management processes",
+          "Coordinate with implementing offices"
+        ],
+        "source": "https://rdhrms.telangana.gov.in/",
+        "qualified": true
+      }
+    },
+    {
+      "id": "hydraa-commissioner",
+      "title": "Commissioner, HYDRAA",
+      "sub": "Sri A. V. Ranganath, IPS",
+      "source": "https://hydraa.telangana.gov.in/about",
+      "kind": "HYDRAA leadership",
+      "fields": [
+        [
+          "Supervising post",
+          "Principal Secretary, MA&UD, as described by the agency."
+        ]
+      ],
+      "children": [],
+      "parent": "agency-hydraa",
+      "role": {
+        "summary": "Heads the agency’s operational and administrative work.",
+        "tasks": [
+          "Lead the agency’s wings",
+          "Coordinate assigned disaster and asset-protection work",
+          "Work under MA&UD supervision"
+        ],
+        "source": "https://hydraa.telangana.gov.in/about",
+        "qualified": false
+      },
+      "geography": {
+        "label": "Notified Core Urban Region (CURE)",
+        "note": "HYDRAA describes its remit as the notified Core Urban Region (CURE). This map contains district and Assembly boundaries, not a verified HYDRAA jurisdiction polygon."
+      }
+    },
+    {
+      "id": "hydraa-asset-protection",
+      "title": "Asset Protection Wing",
+      "sub": "",
+      "source": "https://hydraa.telangana.gov.in/about",
+      "kind": "HYDRAA operational branch",
+      "fields": [
+        [
+          "Leadership / function",
+          "Additional Commissioner (Asset Protection)"
+        ]
+      ],
+      "children": [],
+      "parent": "hydraa-commissioner",
+      "role": {
+        "summary": "Handles protection and restoration of public assets.",
+        "tasks": [
+          "Safeguard public lands and water bodies",
+          "Address encroachments within its remit",
+          "Support enforcement and restoration"
+        ],
+        "source": "https://hydraa.telangana.gov.in/about",
+        "qualified": false
+      },
+      "geography": {
+        "label": "Notified Core Urban Region (CURE)",
+        "note": "HYDRAA describes its remit as the notified Core Urban Region (CURE). This map contains district and Assembly boundaries, not a verified HYDRAA jurisdiction polygon."
+      }
+    },
+    {
+      "id": "hydraa-disaster-management",
+      "title": "Disaster Management Wing",
+      "sub": "",
+      "source": "https://hydraa.telangana.gov.in/about",
+      "kind": "HYDRAA operational branch",
+      "fields": [
+        [
+          "Leadership / function",
+          "Additional Director (Disaster Management)"
+        ]
+      ],
+      "children": [],
+      "parent": "hydraa-commissioner",
+      "role": {
+        "summary": "Coordinates emergency preparedness and disaster response.",
+        "tasks": [
+          "Plan and coordinate emergency response",
+          "Support rescue and relief",
+          "Coordinate flood-mitigation work"
+        ],
+        "source": "https://hydraa.telangana.gov.in/about",
+        "qualified": false
+      },
+      "geography": {
+        "label": "Notified Core Urban Region (CURE)",
+        "note": "HYDRAA describes its remit as the notified Core Urban Region (CURE). This map contains district and Assembly boundaries, not a verified HYDRAA jurisdiction polygon."
+      }
+    },
+    {
+      "id": "hydraa-administration-logistics",
+      "title": "Administration & Logistical Support",
+      "sub": "",
+      "source": "https://hydraa.telangana.gov.in/about",
+      "kind": "HYDRAA operational branch",
+      "fields": [
+        [
+          "Leadership / function",
+          "Additional Commissioner (Administration)"
+        ]
+      ],
+      "children": [],
+      "parent": "hydraa-commissioner",
+      "role": {
+        "summary": "Provides the agency’s administrative and operational support.",
+        "tasks": [
+          "Support personnel and administration",
+          "Coordinate equipment and logistics",
+          "Support GIS, IT and communications"
+        ],
+        "source": "https://hydraa.telangana.gov.in/about",
+        "qualified": false
+      },
+      "geography": {
+        "label": "Notified Core Urban Region (CURE)",
+        "note": "HYDRAA describes its remit as the notified Core Urban Region (CURE). This map contains district and Assembly boundaries, not a verified HYDRAA jurisdiction polygon."
+      }
+    },
+    {
+      "id": "hydraa-police-station",
+      "title": "HYDRAA Police Station",
+      "sub": "",
+      "source": "https://hydraa.telangana.gov.in/about",
+      "kind": "HYDRAA operational branch",
+      "fields": [
+        [
+          "Leadership / function",
+          "HYDRAA Police Station"
+        ]
+      ],
+      "children": [],
+      "parent": "hydraa-commissioner",
+      "role": {
+        "summary": "Handles criminal-enforcement work assigned within the agency’s remit.",
+        "tasks": [
+          "Process matters within its police remit",
+          "Coordinate criminal-enforcement work",
+          "Follow the applicable legal procedures"
+        ],
+        "source": "https://hydraa.telangana.gov.in/about",
+        "qualified": false
+      },
+      "geography": {
+        "label": "Notified Core Urban Region (CURE)",
+        "note": "HYDRAA describes its remit as the notified Core Urban Region (CURE). This map contains district and Assembly boundaries, not a verified HYDRAA jurisdiction polygon."
+      }
+    }
+  ],
+  "edits": [
+    {
+      "id": "n612",
+      "title": "EAGLE Force / Telangana Anti Narcotics Bureau",
+      "aliases": [
+        "EAGLE",
+        "TGANB",
+        "Telangana Anti Narcotics Bureau"
+      ],
+      "fieldsAppend": [
+        [
+          "Naming sources",
+          "The 2026–27 register uses EAGLE Force; the state portal and DCA references also associate EAGLE with TGANB."
+        ]
+      ]
+    },
+    {
+      "id": "n769",
+      "aliases": [
+        "Chief Engineer V&E",
+        "Vigilance and Enquiries",
+        "Chief Engineer Enquires"
+      ],
+      "fieldsAppend": [
+        [
+          "Register label",
+          "Chief Engineer, V & E, Hyderabad (2026–27 entry 115)."
+        ]
+      ]
+    }
+  ],
+  "omissionCount": 35,
+  "additionalDirectoryBodies": [
+    "agency-stree-nidhi",
+    "agency-mepma",
+    "agency-rich",
+    "agency-tsat",
+    "agency-srds"
+  ]
+}
