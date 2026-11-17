@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.tar.gz
+qa/
+.DS_Store
+
+# Local hosting metadata and environment files
+.openai/
+.env
+.env.*
+!.env.example
